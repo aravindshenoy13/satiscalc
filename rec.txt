@@ -1,0 +1,5693 @@
+AI Expansion Server	
+1 ×
+Magnetic Field Generator.png
+Magnetic Field Generator
+4 / min
+1 ×
+Neural-Quantum Processor.png
+Neural-Quantum Processor
+4 / min
+1 ×
+Superposition Oscillator.png
+Superposition Oscillator
+4 / min
+25 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+100 / min
+Quantum Encoder
+15 sec
+0 - 2,000 MW
+1 ×
+AI Expansion Server.png
+AI Expansion Server
+4 / min
+25 ×
+Dark Matter Residue.png
+Dark Matter Residue
+100 / min
+Tier 9 - Quantum Encoding
+AI Limiter	
+5 ×
+Copper Sheet.png
+Copper Sheet
+25 / min
+20 ×
+Quickwire.png
+Quickwire
+100 / min
+Assembler
+12 sec
+Craft Bench
+Manual crafting.png × 6
+1 ×
+AI Limiter.png
+AI Limiter
+5 / min
+MAM Caterium Research - AI Limiter OR
+Tier 7 - Control System Development
+Adaptive Control Unit	
+5 ×
+Automated Wiring.png
+Automated Wiring
+5 / min
+5 ×
+Circuit Board.png
+Circuit Board
+5 / min
+1 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+1 / min
+2 ×
+Computer.png
+Computer
+2 / min
+Manufacturer
+60 sec
+1 ×
+Adaptive Control Unit.png
+Adaptive Control Unit
+1 / min
+Tier 6 - Industrial Manufacturing
+Alclad Aluminum Sheet	
+3 ×
+Aluminum Ingot.png
+Aluminum Ingot
+30 / min
+1 ×
+Copper Ingot.png
+Copper Ingot
+10 / min
+Assembler
+6 sec
+Craft Bench
+Manual crafting.png × 6
+3 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+30 / min
+Tier 7 - Bauxite Refinement
+Alien DNA Capsule	
+1 ×
+Alien Protein.png
+Alien Protein
+10 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 4
+1 ×
+Alien DNA Capsule.png
+Alien DNA Capsule
+10 / min
+MAM Alien Megafauna Research - Bio-Organic Properties
+Alien Power Matrix	
+5 ×
+SAM Fluctuator.png
+SAM Fluctuator
+12.5 / min
+3 ×
+Power Shard.png
+Power Shard
+7.5 / min
+3 ×
+Superposition Oscillator.png
+Superposition Oscillator
+7.5 / min
+24 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+60 / min
+Quantum Encoder
+24 sec
+0 - 2,000 MW
+1 ×
+Alien Power Matrix.png
+Alien Power Matrix
+2.5 / min
+24 ×
+Dark Matter Residue.png
+Dark Matter Residue
+60 / min
+MAM Alien Technology Research - Alien Power Matrix
+Alumina Solution	
+12 ×
+Bauxite.png
+Bauxite
+120 / min
+18 ×
+Water.png
+Water
+180 / min
+Refinery
+6 sec
+12 ×
+Alumina Solution.png
+Alumina Solution
+120 / min
+5 ×
+Silica.png
+Silica
+50 / min
+Tier 7 - Bauxite Refinement
+Aluminum Casing	
+3 ×
+Aluminum Ingot.png
+Aluminum Ingot
+90 / min
+Constructor
+2 sec
+Craft Bench
+Manual crafting.png × 2
+2 ×
+Aluminum Casing.png
+Aluminum Casing
+60 / min
+Tier 7 - Bauxite Refinement
+Aluminum Ingot	
+6 ×
+Aluminum Scrap.png
+Aluminum Scrap
+90 / min
+5 ×
+Silica.png
+Silica
+75 / min
+Foundry
+4 sec
+Craft Bench
+Manual crafting.png × 6
+4 ×
+Aluminum Ingot.png
+Aluminum Ingot
+60 / min
+Tier 7 - Bauxite Refinement
+Aluminum Scrap	
+4 ×
+Alumina Solution.png
+Alumina Solution
+240 / min
+2 ×
+Coal.png
+Coal
+120 / min
+Refinery
+1 sec
+6 ×
+Aluminum Scrap.png
+Aluminum Scrap
+360 / min
+2 ×
+Water.png
+Water
+120 / min
+Tier 7 - Bauxite Refinement
+Assembly Director System	
+2 ×
+Adaptive Control Unit.png
+Adaptive Control Unit
+1.5 / min
+1 ×
+Supercomputer.png
+Supercomputer
+0.75 / min
+Assembler
+80 sec
+1 ×
+Assembly Director System.png
+Assembly Director System
+0.75 / min
+Tier 7 - Control System Development
+Automated Wiring	
+1 ×
+Stator.png
+Stator
+2.5 / min
+20 ×
+Cable.png
+Cable
+50 / min
+Assembler
+24 sec
+1 ×
+Automated Wiring.png
+Automated Wiring
+2.5 / min
+Tier 4 - Advanced Steel Production
+Ballistic Warp Drive	
+1 ×
+Thermal Propulsion Rocket.png
+Thermal Propulsion Rocket
+1 / min
+5 ×
+Singularity Cell.png
+Singularity Cell
+5 / min
+2 ×
+Superposition Oscillator.png
+Superposition Oscillator
+2 / min
+40 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+40 / min
+Manufacturer
+60 sec
+1 ×
+Ballistic Warp Drive.png
+Ballistic Warp Drive
+1 / min
+Tier 9 - Spatial Energy Regulation
+Battery	
+2.5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+50 / min
+2 ×
+Alumina Solution.png
+Alumina Solution
+40 / min
+1 ×
+Aluminum Casing.png
+Aluminum Casing
+20 / min
+Blender
+3 sec
+1 ×
+Battery.png
+Battery
+20 / min
+1.5 ×
+Water.png
+Water
+30 / min
+Tier 7 - Control System Development
+Bauxite (Caterium)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+15 ×
+Caterium Ore.png
+Caterium Ore
+150 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Bauxite.png
+Bauxite
+120 / min
+Tier 9 - Matter Conversion
+Bauxite (Copper)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+18 ×
+Copper Ore.png
+Copper Ore
+180 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Bauxite.png
+Bauxite
+120 / min
+Tier 9 - Matter Conversion
+Biochemical Sculptor	
+1 ×
+Assembly Director System.png
+Assembly Director System
+0.5 / min
+80 ×
+Ficsite Trigon.png
+Ficsite Trigon
+40 / min
+20 ×
+Water.png
+Water
+10 / min
+Blender
+120 sec
+4 ×
+Biochemical Sculptor.png
+Biochemical Sculptor
+2 / min
+Tier 9 - Matter Conversion
+Biomass (Alien Protein)	
+1 ×
+Alien Protein.png
+Alien Protein
+15 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+100 ×
+Biomass.png
+Biomass
+1,500 / min
+MAM Alien Megafauna Research - Bio-Organic Properties
+Biomass (Leaves)	
+10 ×
+Leaves.png
+Leaves
+120 / min
+Constructor
+5 sec
+Craft Bench
+Manual crafting.png × 1
+5 ×
+Biomass.png
+Biomass
+60 / min
+Tier 0 - HUB Upgrade 6
+Biomass (Mycelia)	
+1 ×
+Mycelia.png
+Mycelia
+15 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 1
+10 ×
+Biomass.png
+Biomass
+150 / min
+MAM Mycelia Research - Mycelia
+Biomass (Wood)	
+4 ×
+Wood.png
+Wood
+60 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+20 ×
+Biomass.png
+Biomass
+300 / min
+Tier 0 - HUB Upgrade 6
+Black Powder	
+1 ×
+Coal.png
+Coal
+15 / min
+1 ×
+Sulfur.png
+Sulfur
+15 / min
+Assembler
+4 sec
+Equipment Workshop
+Manual crafting.png × 4
+2 ×
+Black Powder.png
+Black Powder
+30 / min
+MAM Sulfur Research - Black Powder
+Blade Runners	
+20 ×
+Silica.png
+Silica
+20 / min
+3 ×
+Modular Frame.png
+Modular Frame
+3 / min
+3 ×
+Rotor.png
+Rotor
+3 / min
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Blade Runners.png
+Blade Runners
+1 / min
+MAM Quartz Research - Blade Runners
+Blue FICSMAS Ornament
+FICSMAS	
+1 ×
+FICSMAS Gift.png
+FICSMAS Gift
+5 / min
+Smelter
+12 sec
+2 ×
+Blue FICSMAS Ornament.png
+Blue FICSMAS Ornament
+10 / min
+MAM FICSMAS Holiday Event Research - Giant FICSMAS Tree: Upgrade 1
+Cable	
+2 ×
+Wire.png
+Wire
+60 / min
+Constructor
+2 sec
+Craft Bench
+Manual crafting.png × 1
+1 ×
+Cable.png
+Cable
+30 / min
+Tier 0 - HUB Upgrade 2
+Candy Cane
+FICSMAS	
+3 ×
+FICSMAS Gift.png
+FICSMAS Gift
+15 / min
+Constructor
+12 sec
+1 ×
+Candy Cane.png
+Candy Cane
+5 / min
+MAM FICSMAS Holiday Event Research - Candy Cane Basher
+Candy Cane Basher
+FICSMAS	
+2 ×
+Xeno-Zapper.png
+Xeno-Zapper
+1.5 / min
+25 ×
+Candy Cane.png
+Candy Cane
+18.75 / min
+15 ×
+FICSMAS Gift.png
+FICSMAS Gift
+11.25 / min
+Equipment Workshop
+Manual crafting.png × 40
+1 ×
+Candy Cane Basher.png
+Candy Cane Basher
+0.75 / min
+MAM FICSMAS Holiday Event Research - Candy Cane Basher
+Caterium Ingot	
+3 ×
+Caterium Ore.png
+Caterium Ore
+45 / min
+Smelter
+4 sec
+Craft Bench
+Manual crafting.png × 4
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+15 / min
+MAM Caterium Research - Caterium Ingots OR
+Tier 5 - Petroleum Power
+Caterium Ore (Copper)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+15 ×
+Copper Ore.png
+Copper Ore
+150 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Caterium Ore.png
+Caterium Ore
+120 / min
+Tier 9 - Matter Conversion
+Caterium Ore (Quartz)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+12 ×
+Raw Quartz.png
+Raw Quartz
+120 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Caterium Ore.png
+Caterium Ore
+120 / min
+Tier 9 - Matter Conversion
+Chainsaw	
+5 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+5 / min
+25 ×
+Iron Rod.png
+Iron Rod
+25 / min
+160 ×
+Screw.png
+Screw
+160 / min
+15 ×
+Cable.png
+Cable
+15 / min
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Chainsaw.png
+Chainsaw
+1 / min
+Tier 2 - Obstacle Clearing
+Circuit Board	
+2 ×
+Copper Sheet.png
+Copper Sheet
+15 / min
+4 ×
+Plastic.png
+Plastic
+30 / min
+Assembler
+8 sec
+Craft Bench
+Manual crafting.png × 6
+1 ×
+Circuit Board.png
+Circuit Board
+7.5 / min
+Tier 5 - Oil Processing
+Cluster Nobelisk	
+3 ×
+Nobelisk.png
+Nobelisk
+7.5 / min
+4 ×
+Smokeless Powder.png
+Smokeless Powder
+10 / min
+Assembler
+24 sec
+Equipment Workshop
+Manual crafting.png × 9
+1 ×
+Cluster Nobelisk.png
+Cluster Nobelisk
+2.5 / min
+MAM Sulfur Research - Cluster Nobelisk
+Coal (Iron)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+18 ×
+Iron Ore.png
+Iron Ore
+180 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Coal.png
+Coal
+120 / min
+Tier 9 - Matter Conversion
+Coal (Limestone)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+36 ×
+Limestone.png
+Limestone
+360 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Coal.png
+Coal
+120 / min
+Tier 9 - Matter Conversion
+Computer	
+4 ×
+Circuit Board.png
+Circuit Board
+10 / min
+8 ×
+Cable.png
+Cable
+20 / min
+16 ×
+Plastic.png
+Plastic
+40 / min
+Manufacturer
+24 sec
+Craft Bench
+Manual crafting.png × 18
+1 ×
+Computer.png
+Computer
+2.5 / min
+Tier 6 - Industrial Manufacturing
+Concrete	
+3 ×
+Limestone.png
+Limestone
+45 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Concrete.png
+Concrete
+15 / min
+Tier 0 - HUB Upgrade 3
+Cooling System	
+2 ×
+Heat Sink.png
+Heat Sink
+12 / min
+2 ×
+Rubber.png
+Rubber
+12 / min
+5 ×
+Water.png
+Water
+30 / min
+25 ×
+Nitrogen Gas.png
+Nitrogen Gas
+150 / min
+Blender
+10 sec
+1 ×
+Cooling System.png
+Cooling System
+6 / min
+Tier 8 - Advanced Aluminum Production
+Copper FICSMAS Ornament
+FICSMAS	
+2 ×
+Red FICSMAS Ornament.png
+Red FICSMAS Ornament
+10 / min
+2 ×
+Copper Ingot.png
+Copper Ingot
+10 / min
+Foundry
+12 sec
+1 ×
+Copper FICSMAS Ornament.png
+Copper FICSMAS Ornament
+5 / min
+MAM FICSMAS Holiday Event Research - Giant FICSMAS Tree: Upgrade 2
+Copper Ingot	
+1 ×
+Copper Ore.png
+Copper Ore
+30 / min
+Smelter
+2 sec
+Craft Bench
+Manual crafting.png × 3
+1 ×
+Copper Ingot.png
+Copper Ingot
+30 / min
+Tier 0 - HUB Upgrade 2
+Copper Ore (Quartz)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+10 ×
+Raw Quartz.png
+Raw Quartz
+100 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Copper Ore.png
+Copper Ore
+120 / min
+Tier 9 - Matter Conversion
+Copper Ore (Sulfur)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+12 ×
+Sulfur.png
+Sulfur
+120 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Copper Ore.png
+Copper Ore
+120 / min
+Tier 9 - Matter Conversion
+Copper Powder	
+30 ×
+Copper Ingot.png
+Copper Ingot
+300 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+5 ×
+Copper Powder.png
+Copper Powder
+50 / min
+Tier 8 - Particle Enrichment
+Copper Sheet	
+2 ×
+Copper Ingot.png
+Copper Ingot
+20 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+1 ×
+Copper Sheet.png
+Copper Sheet
+10 / min
+Tier 2 - Part Assembly
+Crystal Oscillator	
+36 ×
+Quartz Crystal.png
+Quartz Crystal
+18 / min
+28 ×
+Cable.png
+Cable
+14 / min
+5 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+2.5 / min
+Manufacturer
+120 sec
+Craft Bench
+Manual crafting.png × 18
+2 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1 / min
+MAM Quartz Research - Crystal Oscillator OR
+Tier 7 - Bauxite Refinement
+Dark Matter Crystal	
+1 ×
+Diamonds.png
+Diamonds
+30 / min
+5 ×
+Dark Matter Residue.png
+Dark Matter Residue
+150 / min
+Particle Accelerator
+2 sec
+500 - 1,500 MW
+1 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+30 / min
+Tier 9 - Quantum Encoding
+Dark Matter Residue	
+5 ×
+Reanimated SAM.png
+Reanimated SAM
+50 / min
+Converter
+6 sec
+100 - 400 MW
+10 ×
+Dark Matter Residue.png
+Dark Matter Residue
+100 / min
+Tier 9 - Quantum Encoding
+Diamonds	
+20 ×
+Coal.png
+Coal
+600 / min
+Particle Accelerator
+2 sec
+250 - 750 MW
+1 ×
+Diamonds.png
+Diamonds
+30 / min
+Tier 9 - Matter Conversion
+Electromagnetic Control Rod	
+3 ×
+Stator.png
+Stator
+6 / min
+2 ×
+AI Limiter.png
+AI Limiter
+4 / min
+Assembler
+30 sec
+Craft Bench
+Manual crafting.png × 15
+2 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+4 / min
+Tier 8 - Nuclear Power
+Empty Canister	
+2 ×
+Plastic.png
+Plastic
+30 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+4 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 5 - Fluid Packaging
+Empty Fluid Tank	
+1 ×
+Aluminum Ingot.png
+Aluminum Ingot
+60 / min
+Constructor
+1 sec
+Craft Bench
+Manual crafting.png × 1
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+60 / min
+Tier 8 - Advanced Aluminum Production
+Encased Industrial Beam	
+3 ×
+Steel Beam.png
+Steel Beam
+18 / min
+6 ×
+Concrete.png
+Concrete
+36 / min
+Assembler
+10 sec
+Craft Bench
+Manual crafting.png × 5
+1 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+6 / min
+Tier 4 - Advanced Steel Production
+Encased Plutonium Cell	
+2 ×
+Plutonium Pellet.png
+Plutonium Pellet
+10 / min
+4 ×
+Concrete.png
+Concrete
+20 / min
+Assembler
+12 sec
+Craft Bench
+Manual crafting.png × 3
+1 ×
+Encased Plutonium Cell.png
+Encased Plutonium Cell
+5 / min
+Tier 8 - Particle Enrichment
+Encased Uranium Cell	
+10 ×
+Uranium.png
+Uranium
+50 / min
+3 ×
+Concrete.png
+Concrete
+15 / min
+8 ×
+Sulfuric Acid.png
+Sulfuric Acid
+40 / min
+Blender
+12 sec
+5 ×
+Encased Uranium Cell.png
+Encased Uranium Cell
+25 / min
+2 ×
+Sulfuric Acid.png
+Sulfuric Acid
+10 / min
+Tier 8 - Nuclear Power
+Excited Photonic Matter		
+Converter
+3 sec
+100 - 400 MW
+10 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+200 / min
+Tier 9 - Quantum Encoding
+Explosive Rebar	
+2 ×
+Iron Rebar.png
+Iron Rebar
+10 / min
+2 ×
+Smokeless Powder.png
+Smokeless Powder
+10 / min
+2 ×
+Steel Pipe.png
+Steel Pipe
+10 / min
+Manufacturer
+12 sec
+Equipment Workshop
+Manual crafting.png × 8
+1 ×
+Explosive Rebar.png
+Explosive Rebar
+5 / min
+MAM Sulfur Research - Explosive Rebar
+FICSMAS Actual Snow
+FICSMAS	
+5 ×
+FICSMAS Gift.png
+FICSMAS Gift
+25 / min
+Constructor
+12 sec
+2 ×
+Actual Snow.png
+FICSMAS Actual Snow
+10 / min
+MAM FICSMAS Holiday Event Research - A Friend
+FICSMAS Bow
+FICSMAS	
+2 ×
+FICSMAS Gift.png
+FICSMAS Gift
+10 / min
+Constructor
+12 sec
+1 ×
+FICSMAS Bow.png
+FICSMAS Bow
+5 / min
+MAM FICSMAS Holiday Event Research - Candy Cane Decor
+FICSMAS Ornament Bundle
+FICSMAS	
+1 ×
+Copper FICSMAS Ornament.png
+Copper FICSMAS Ornament
+5 / min
+1 ×
+Iron FICSMAS Ornament.png
+Iron FICSMAS Ornament
+5 / min
+Assembler
+12 sec
+1 ×
+FICSMAS Ornament Bundle.png
+FICSMAS Ornament Bundle
+5 / min
+MAM FICSMAS Holiday Event Research - FICSMAS Lights
+FICSMAS Tree Branch
+FICSMAS	
+1 ×
+FICSMAS Gift.png
+FICSMAS Gift
+10 / min
+Constructor
+6 sec
+1 ×
+FICSMAS Tree Branch.png
+FICSMAS Tree Branch
+10 / min
+MAM FICSMAS Holiday Event Research - FICSMAS Tree Base
+FICSMAS Wonder Star
+FICSMAS	
+5 ×
+FICSMAS Wreath.png
+FICSMAS Wreath
+5 / min
+20 ×
+Candy Cane.png
+Candy Cane
+20 / min
+Assembler
+60 sec
+1 ×
+FICSMAS Wonder Star.png
+FICSMAS Wonder Star
+1 / min
+MAM FICSMAS Holiday Event Research - FICSMAS Decoration
+FICSMAS Wreath
+FICSMAS	
+15 ×
+FICSMAS Tree Branch.png
+FICSMAS Tree Branch
+15 / min
+6 ×
+FICSMAS Ornament Bundle.png
+FICSMAS Ornament Bundle
+6 / min
+Assembler
+60 sec
+2 ×
+FICSMAS Wreath.png
+FICSMAS Wreath
+2 / min
+MAM FICSMAS Holiday Event Research - Giant FICSMAS Tree: Upgrade 3
+Fabric	
+1 ×
+Mycelia.png
+Mycelia
+15 / min
+5 ×
+Biomass.png
+Biomass
+75 / min
+Assembler
+4 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Fabric.png
+Fabric
+15 / min
+MAM Mycelia Research - Fabric
+Factory Cart™	
+4 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+12 / min
+4 ×
+Iron Rod.png
+Iron Rod
+12 / min
+2 ×
+Rotor.png
+Rotor
+6 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Factory Cart.png
+Factory Cart™
+3 / min
+AWESOME Shop - FICSIT Factory Cart™
+Fancy Fireworks
+FICSMAS	
+4 ×
+FICSMAS Tree Branch.png
+FICSMAS Tree Branch
+10 / min
+3 ×
+FICSMAS Bow.png
+FICSMAS Bow
+7.5 / min
+Assembler
+24 sec
+Equipment Workshop
+Manual crafting.png × 12
+1 ×
+Fancy Fireworks.png
+Fancy Fireworks
+2.5 / min
+Equipment: Fireworks
+Ficsite Ingot (Aluminum)	
+2 ×
+Reanimated SAM.png
+Reanimated SAM
+60 / min
+4 ×
+Aluminum Ingot.png
+Aluminum Ingot
+120 / min
+Converter
+2 sec
+100 - 400 MW
+1 ×
+Ficsite Ingot.png
+Ficsite Ingot
+30 / min
+Tier 9 - Matter Conversion
+Ficsite Ingot (Caterium)	
+3 ×
+Reanimated SAM.png
+Reanimated SAM
+45 / min
+4 ×
+Caterium Ingot.png
+Caterium Ingot
+60 / min
+Converter
+4 sec
+100 - 400 MW
+1 ×
+Ficsite Ingot.png
+Ficsite Ingot
+15 / min
+Tier 9 - Matter Conversion
+Ficsite Ingot (Iron)	
+4 ×
+Reanimated SAM.png
+Reanimated SAM
+40 / min
+24 ×
+Iron Ingot.png
+Iron Ingot
+240 / min
+Converter
+6 sec
+100 - 400 MW
+1 ×
+Ficsite Ingot.png
+Ficsite Ingot
+10 / min
+Tier 9 - Matter Conversion
+Ficsite Trigon	
+1 ×
+Ficsite Ingot.png
+Ficsite Ingot
+10 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+3 ×
+Ficsite Trigon.png
+Ficsite Trigon
+30 / min
+Tier 9 - Matter Conversion
+Ficsonium	
+1 ×
+Plutonium Waste.png
+Plutonium Waste
+10 / min
+1 ×
+Singularity Cell.png
+Singularity Cell
+10 / min
+20 ×
+Dark Matter Residue.png
+Dark Matter Residue
+200 / min
+Particle Accelerator
+6 sec
+500 - 1,500 MW
+1 ×
+Ficsonium.png
+Ficsonium
+10 / min
+Tier 9 - Peak Efficiency
+Ficsonium Fuel Rod	
+2 ×
+Ficsonium.png
+Ficsonium
+5 / min
+2 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+5 / min
+40 ×
+Ficsite Trigon.png
+Ficsite Trigon
+100 / min
+20 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+50 / min
+Quantum Encoder
+24 sec
+0 - 2,000 MW
+1 ×
+Ficsonium Fuel Rod.png
+Ficsonium Fuel Rod
+2.5 / min
+20 ×
+Dark Matter Residue.png
+Dark Matter Residue
+50 / min
+Tier 9 - Peak Efficiency
+Fuel	
+6 ×
+Crude Oil.png
+Crude Oil
+60 / min
+Refinery
+6 sec
+4 ×
+Fuel.png
+Fuel
+40 / min
+3 ×
+Polymer Resin.png
+Polymer Resin
+30 / min
+Tier 5 - Oil Processing
+Fused Modular Frame	
+1 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+1.5 / min
+50 ×
+Aluminum Casing.png
+Aluminum Casing
+75 / min
+25 ×
+Nitrogen Gas.png
+Nitrogen Gas
+37.5 / min
+Blender
+40 sec
+1 ×
+Fused Modular Frame.png
+Fused Modular Frame
+1.5 / min
+Tier 8 - Advanced Aluminum Production
+Gas Filter	
+2 ×
+Fabric.png
+Fabric
+15 / min
+4 ×
+Coal.png
+Coal
+30 / min
+2 ×
+Iron Plate.png
+Iron Plate
+15 / min
+Manufacturer
+8 sec
+Equipment Workshop
+Manual crafting.png × 4
+1 ×
+Gas Filter.png
+Gas Filter
+7.5 / min
+MAM Mycelia Research - Gas Mask
+Gas Mask	
+50 ×
+Fabric.png
+Fabric
+50 / min
+10 ×
+Copper Sheet.png
+Copper Sheet
+10 / min
+10 ×
+Steel Pipe.png
+Steel Pipe
+10 / min
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Gas Mask.png
+Gas Mask
+1 / min
+MAM Mycelia Research - Gas Mask
+Gas Nobelisk	
+1 ×
+Nobelisk.png
+Nobelisk
+5 / min
+10 ×
+Biomass.png
+Biomass
+50 / min
+Assembler
+12 sec
+Equipment Workshop
+Manual crafting.png × 5
+1 ×
+Gas Nobelisk.png
+Gas Nobelisk
+5 / min
+MAM Mycelia Research - Toxic Cellular Modification
+Golden Factory Cart™	
+15 ×
+Caterium Ingot.png
+Caterium Ingot
+45 / min
+4 ×
+Iron Rod.png
+Iron Rod
+12 / min
+2 ×
+Rotor.png
+Rotor
+6 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Golden Factory Cart.png
+Golden Factory Cart™
+3 / min
+AWESOME Shop - Golden FICSIT Factory Cart™
+Hatcher Protein	
+1 ×
+Hatcher Remains.png
+Hatcher Remains
+20 / min
+Constructor
+3 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Alien Protein.png
+Alien Protein
+20 / min
+MAM Alien Megafauna Research - Hatcher Research
+Hazmat Suit	
+50 ×
+Rubber.png
+Rubber
+25 / min
+50 ×
+Plastic.png
+Plastic
+25 / min
+50 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+25 / min
+50 ×
+Fabric.png
+Fabric
+25 / min
+Equipment Workshop
+Manual crafting.png × 60
+1 ×
+Hazmat Suit.png
+Hazmat Suit
+0.5 / min
+Tier 7 - Hazmat Suit
+Heat Sink	
+5 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+37.5 / min
+3 ×
+Copper Sheet.png
+Copper Sheet
+22.5 / min
+Assembler
+8 sec
+Craft Bench
+Manual crafting.png × 6
+1 ×
+Heat Sink.png
+Heat Sink
+7.5 / min
+Tier 8 - Advanced Aluminum Production
+Heavy Modular Frame	
+5 ×
+Modular Frame.png
+Modular Frame
+10 / min
+20 ×
+Steel Pipe.png
+Steel Pipe
+40 / min
+5 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+10 / min
+120 ×
+Screw.png
+Screw
+240 / min
+Manufacturer
+30 sec
+Craft Bench
+Manual crafting.png × 9
+1 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+2 / min
+Tier 6 - Industrial Manufacturing
+High-Speed Connector	
+56 ×
+Quickwire.png
+Quickwire
+210 / min
+10 ×
+Cable.png
+Cable
+37.5 / min
+1 ×
+Circuit Board.png
+Circuit Board
+3.75 / min
+Manufacturer
+16 sec
+Craft Bench
+Manual crafting.png × 8
+1 ×
+High-Speed Connector.png
+High-Speed Connector
+3.75 / min
+MAM Caterium Research - High-Speed Connector OR
+Tier 7 - Control System Development
+Hog Protein	
+1 ×
+Hog Remains.png
+Hog Remains
+20 / min
+Constructor
+3 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Alien Protein.png
+Alien Protein
+20 / min
+MAM Alien Megafauna Research - Hog Research
+Homing Rifle Ammo	
+20 ×
+Rifle Ammo.png
+Rifle Ammo
+50 / min
+1 ×
+High-Speed Connector.png
+High-Speed Connector
+2.5 / min
+Assembler
+24 sec
+Equipment Workshop
+Manual crafting.png × 9
+10 ×
+Homing Rifle Ammo.png
+Homing Rifle Ammo
+25 / min
+MAM Caterium Research - Bullet Guidance System
+Hoverpack	
+8 ×
+Motor.png
+Motor
+4 / min
+4 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+2 / min
+8 ×
+Computer.png
+Computer
+4 / min
+40 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+20 / min
+Equipment Workshop
+Manual crafting.png × 60
+1 ×
+Hoverpack.png
+Hoverpack
+0.5 / min
+Tier 7 - Hoverpack
+Iodine-Infused Filter	
+1 ×
+Gas Filter.png
+Gas Filter
+3.75 / min
+8 ×
+Quickwire.png
+Quickwire
+30 / min
+1 ×
+Aluminum Casing.png
+Aluminum Casing
+3.75 / min
+Manufacturer
+16 sec
+Equipment Workshop
+Manual crafting.png × 8
+1 ×
+Iodine-Infused Filter.png
+Iodine-Infused Filter
+3.75 / min
+Tier 7 - Hazmat Suit
+Ionized Fuel	
+16 ×
+Rocket Fuel.png
+Rocket Fuel
+40 / min
+1 ×
+Power Shard.png
+Power Shard
+2.5 / min
+Refinery
+24 sec
+16 ×
+Ionized Fuel.png
+Ionized Fuel
+40 / min
+2 ×
+Compacted Coal.png
+Compacted Coal
+5 / min
+MAM Sulfur Research - Ionized Fuel
+Iron FICSMAS Ornament
+FICSMAS	
+3 ×
+Blue FICSMAS Ornament.png
+Blue FICSMAS Ornament
+15 / min
+3 ×
+Iron Ingot.png
+Iron Ingot
+15 / min
+Foundry
+12 sec
+1 ×
+Iron FICSMAS Ornament.png
+Iron FICSMAS Ornament
+5 / min
+MAM FICSMAS Holiday Event Research - Giant FICSMAS Tree: Upgrade 2
+Iron Ingot	
+1 ×
+Iron Ore.png
+Iron Ore
+30 / min
+Smelter
+2 sec
+Craft Bench
+Manual crafting.png × 3
+1 ×
+Iron Ingot.png
+Iron Ingot
+30 / min
+Onboarding
+Iron Ore (Limestone)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+24 ×
+Limestone.png
+Limestone
+240 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Iron Ore.png
+Iron Ore
+120 / min
+Tier 9 - Matter Conversion
+Iron Plate	
+3 ×
+Iron Ingot.png
+Iron Ingot
+30 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+2 ×
+Iron Plate.png
+Iron Plate
+20 / min
+Onboarding
+Iron Rebar	
+1 ×
+Iron Rod.png
+Iron Rod
+15 / min
+Constructor
+4 sec
+Equipment Workshop
+Manual crafting.png × 2
+1 ×
+Iron Rebar.png
+Iron Rebar
+15 / min
+MAM Alien Megafauna Research - The Rebar Gun
+Iron Rod	
+1 ×
+Iron Ingot.png
+Iron Ingot
+15 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 1
+1 ×
+Iron Rod.png
+Iron Rod
+15 / min
+Onboarding
+Jetpack	
+5 ×
+Motor.png
+Motor
+5 / min
+10 ×
+Steel Pipe.png
+Steel Pipe
+10 / min
+25 ×
+Iron Plate.png
+Iron Plate
+25 / min
+50 ×
+Wire.png
+Wire
+50 / min
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Jetpack.png
+Jetpack
+1 / min
+Tier 5 - Jetpack
+Limestone (Sulfur)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+2 ×
+Sulfur.png
+Sulfur
+20 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Limestone.png
+Limestone
+120 / min
+Tier 9 - Matter Conversion
+Liquid Biofuel	
+6 ×
+Solid Biofuel.png
+Solid Biofuel
+90 / min
+3 ×
+Water.png
+Water
+45 / min
+Refinery
+4 sec
+4 ×
+Liquid Biofuel.png
+Liquid Biofuel
+60 / min
+Tier 5 - Fluid Packaging
+Magnetic Field Generator	
+5 ×
+Versatile Framework.png
+Versatile Framework
+2.5 / min
+2 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+1 / min
+Assembler
+120 sec
+2 ×
+Magnetic Field Generator.png
+Magnetic Field Generator
+1 / min
+Tier 8 - Nuclear Power
+Modular Engine	
+2 ×
+Motor.png
+Motor
+2 / min
+15 ×
+Rubber.png
+Rubber
+15 / min
+2 ×
+Smart Plating.png
+Smart Plating
+2 / min
+Manufacturer
+60 sec
+1 ×
+Modular Engine.png
+Modular Engine
+1 / min
+Tier 6 - Industrial Manufacturing
+Modular Frame	
+3 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+3 / min
+12 ×
+Iron Rod.png
+Iron Rod
+12 / min
+Assembler
+60 sec
+Craft Bench
+Manual crafting.png × 15
+2 ×
+Modular Frame.png
+Modular Frame
+2 / min
+Tier 2 - Part Assembly
+Motor	
+2 ×
+Rotor.png
+Rotor
+10 / min
+2 ×
+Stator.png
+Stator
+10 / min
+Assembler
+12 sec
+Craft Bench
+Manual crafting.png × 12
+1 ×
+Motor.png
+Motor
+5 / min
+Tier 4 - Advanced Steel Production
+Neural-Quantum Processor	
+5 ×
+Time Crystal.png
+Time Crystal
+15 / min
+1 ×
+Supercomputer.png
+Supercomputer
+3 / min
+15 ×
+Ficsite Trigon.png
+Ficsite Trigon
+45 / min
+25 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+75 / min
+Quantum Encoder
+20 sec
+0 - 2,000 MW
+1 ×
+Neural-Quantum Processor.png
+Neural-Quantum Processor
+3 / min
+25 ×
+Dark Matter Residue.png
+Dark Matter Residue
+75 / min
+Tier 9 - Quantum Encoding
+Nitric Acid	
+12 ×
+Nitrogen Gas.png
+Nitrogen Gas
+120 / min
+3 ×
+Water.png
+Water
+30 / min
+1 ×
+Iron Plate.png
+Iron Plate
+10 / min
+Blender
+6 sec
+3 ×
+Nitric Acid.png
+Nitric Acid
+30 / min
+Tier 8 - Particle Enrichment
+Nitrogen Gas (Bauxite)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+10 ×
+Bauxite.png
+Bauxite
+100 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Nitrogen Gas.png
+Nitrogen Gas
+120 / min
+Tier 9 - Matter Conversion
+Nitrogen Gas (Caterium)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+12 ×
+Caterium Ore.png
+Caterium Ore
+120 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Nitrogen Gas.png
+Nitrogen Gas
+120 / min
+Tier 9 - Matter Conversion
+Nobelisk	
+2 ×
+Black Powder.png
+Black Powder
+20 / min
+2 ×
+Steel Pipe.png
+Steel Pipe
+20 / min
+Assembler
+6 sec
+Equipment Workshop
+Manual crafting.png × 4
+1 ×
+Nobelisk.png
+Nobelisk
+10 / min
+MAM Sulfur Research - The Nobelisk Detonator
+Nobelisk Detonator	
+1 ×
+Object Scanner.png
+Object Scanner
+0.75 / min
+10 ×
+Steel Beam.png
+Steel Beam
+7.5 / min
+50 ×
+Cable.png
+Cable
+37.5 / min
+Equipment Workshop
+Manual crafting.png × 40
+1 ×
+Nobelisk Detonator.png
+Nobelisk Detonator
+0.75 / min
+MAM Sulfur Research - The Nobelisk Detonator
+Non-Fissile Uranium	
+15 ×
+Uranium Waste.png
+Uranium Waste
+37.5 / min
+10 ×
+Silica.png
+Silica
+25 / min
+6 ×
+Nitric Acid.png
+Nitric Acid
+15 / min
+6 ×
+Sulfuric Acid.png
+Sulfuric Acid
+15 / min
+Blender
+24 sec
+20 ×
+Non-Fissile Uranium.png
+Non-Fissile Uranium
+50 / min
+6 ×
+Water.png
+Water
+15 / min
+Tier 8 - Particle Enrichment
+Nuclear Pasta	
+200 ×
+Copper Powder.png
+Copper Powder
+100 / min
+1 ×
+Pressure Conversion Cube.png
+Pressure Conversion Cube
+0.5 / min
+Particle Accelerator
+120 sec
+500 - 1,500 MW
+1 ×
+Nuclear Pasta.png
+Nuclear Pasta
+0.5 / min
+Tier 8 - Particle Enrichment
+Nuke Nobelisk	
+5 ×
+Nobelisk.png
+Nobelisk
+2.5 / min
+20 ×
+Encased Uranium Cell.png
+Encased Uranium Cell
+10 / min
+10 ×
+Smokeless Powder.png
+Smokeless Powder
+5 / min
+6 ×
+AI Limiter.png
+AI Limiter
+3 / min
+Manufacturer
+120 sec
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Nuke Nobelisk.png
+Nuke Nobelisk
+0.5 / min
+MAM Sulfur Research - Nuclear Deterrent Development
+Nutritional Inhaler	
+1 ×
+Bacon Agaric.png
+Bacon Agaric
+3 / min
+2 ×
+Paleberry.png
+Paleberry
+6 / min
+5 ×
+Beryl Nut.png
+Beryl Nut
+15 / min
+Equipment Workshop
+Manual crafting.png × 10
+1 ×
+Medicinal Inhaler.png
+Medicinal Inhaler
+3 / min
+MAM Nutrients Research - Nutritional Inhaler
+Object Scanner	
+4 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+6 / min
+20 ×
+Wire.png
+Wire
+30 / min
+50 ×
+Screw.png
+Screw
+75 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Object Scanner.png
+Object Scanner
+1.5 / min
+Tier 1 - Field Research
+Packaged Alumina Solution	
+2 ×
+Alumina Solution.png
+Alumina Solution
+120 / min
+2 ×
+Empty Canister.png
+Empty Canister
+120 / min
+Packager
+1 sec
+2 ×
+Packaged Alumina Solution.png
+Packaged Alumina Solution
+120 / min
+Tier 7 - Bauxite Refinement
+Packaged Fuel	
+2 ×
+Fuel.png
+Fuel
+40 / min
+2 ×
+Empty Canister.png
+Empty Canister
+40 / min
+Packager
+3 sec
+2 ×
+Packaged Fuel.png
+Packaged Fuel
+40 / min
+Tier 5 - Fluid Packaging
+Packaged Heavy Oil Residue	
+2 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+30 / min
+2 ×
+Empty Canister.png
+Empty Canister
+30 / min
+Packager
+4 sec
+2 ×
+Packaged Heavy Oil Residue.png
+Packaged Heavy Oil Residue
+30 / min
+Tier 5 - Fluid Packaging
+Packaged Ionized Fuel	
+4 ×
+Ionized Fuel.png
+Ionized Fuel
+80 / min
+2 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+40 / min
+Packager
+3 sec
+2 ×
+Packaged Ionized Fuel.png
+Packaged Ionized Fuel
+40 / min
+MAM Sulfur Research - Ionized Fuel
+Packaged Liquid Biofuel	
+2 ×
+Liquid Biofuel.png
+Liquid Biofuel
+40 / min
+2 ×
+Empty Canister.png
+Empty Canister
+40 / min
+Packager
+3 sec
+2 ×
+Packaged Liquid Biofuel.png
+Packaged Liquid Biofuel
+40 / min
+Tier 5 - Fluid Packaging
+Packaged Nitric Acid	
+1 ×
+Nitric Acid.png
+Nitric Acid
+30 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+30 / min
+Packager
+2 sec
+1 ×
+Packaged Nitric Acid.png
+Packaged Nitric Acid
+30 / min
+Tier 8 - Particle Enrichment
+Packaged Nitrogen Gas	
+4 ×
+Nitrogen Gas.png
+Nitrogen Gas
+240 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+60 / min
+Packager
+1 sec
+1 ×
+Packaged Nitrogen Gas.png
+Packaged Nitrogen Gas
+60 / min
+Tier 8 - Advanced Aluminum Production
+Packaged Oil	
+2 ×
+Crude Oil.png
+Crude Oil
+30 / min
+2 ×
+Empty Canister.png
+Empty Canister
+30 / min
+Packager
+4 sec
+2 ×
+Packaged Oil.png
+Packaged Oil
+30 / min
+Tier 5 - Fluid Packaging
+Packaged Rocket Fuel	
+2 ×
+Rocket Fuel.png
+Rocket Fuel
+120 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+60 / min
+Packager
+1 sec
+1 ×
+Packaged Rocket Fuel.png
+Packaged Rocket Fuel
+60 / min
+MAM Sulfur Research - Rocket Fuel
+Packaged Sulfuric Acid	
+2 ×
+Sulfuric Acid.png
+Sulfuric Acid
+40 / min
+2 ×
+Empty Canister.png
+Empty Canister
+40 / min
+Packager
+3 sec
+2 ×
+Packaged Sulfuric Acid.png
+Packaged Sulfuric Acid
+40 / min
+Tier 7 - Control System Development
+Packaged Turbofuel	
+2 ×
+Turbofuel.png
+Turbofuel
+20 / min
+2 ×
+Empty Canister.png
+Empty Canister
+20 / min
+Packager
+6 sec
+2 ×
+Packaged Turbofuel.png
+Packaged Turbofuel
+20 / min
+MAM Sulfur Research - Turbofuel OR
+Tier 7 - Control System Development OR
+Tier 5 - Oil Processing AND
+MAM Sulfur Research - Compacted Coal
+Packaged Water	
+2 ×
+Water.png
+Water
+60 / min
+2 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Packager
+2 sec
+2 ×
+Packaged Water.png
+Packaged Water
+60 / min
+Tier 5 - Fluid Packaging
+Parachute	
+20 ×
+Fabric.png
+Fabric
+30 / min
+10 ×
+Cable.png
+Cable
+15 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Parachute.png
+Parachute
+1.5 / min
+MAM Mycelia Research - Parachute
+Petroleum Coke	
+4 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+40 / min
+Refinery
+6 sec
+12 ×
+Petroleum Coke.png
+Petroleum Coke
+120 / min
+Tier 5 - Oil Processing
+Plastic	
+3 ×
+Crude Oil.png
+Crude Oil
+30 / min
+Refinery
+6 sec
+2 ×
+Plastic.png
+Plastic
+20 / min
+1 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+10 / min
+Tier 5 - Oil Processing
+Plutonium Fuel Rod	
+30 ×
+Encased Plutonium Cell.png
+Encased Plutonium Cell
+7.5 / min
+18 ×
+Steel Beam.png
+Steel Beam
+4.5 / min
+6 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+1.5 / min
+10 ×
+Heat Sink.png
+Heat Sink
+2.5 / min
+Manufacturer
+240 sec
+1 ×
+Plutonium Fuel Rod.png
+Plutonium Fuel Rod
+0.25 / min
+Tier 8 - Particle Enrichment
+Plutonium Fuel Rod (burning)	
+1 ×
+Plutonium Fuel Rod.png
+Plutonium Fuel Rod
+0.1 / min
+2,400 ×
+Water.png
+Water
+240 / min
+Nuclear Power Plant
+600 sec
+10 ×
+Plutonium Waste.png
+Plutonium Waste
+1 / min
+Tier 8 - Particle Enrichment
+Plutonium Pellet	
+100 ×
+Non-Fissile Uranium.png
+Non-Fissile Uranium
+100 / min
+25 ×
+Uranium Waste.png
+Uranium Waste
+25 / min
+Particle Accelerator
+60 sec
+250 - 750 MW
+30 ×
+Plutonium Pellet.png
+Plutonium Pellet
+30 / min
+Tier 8 - Particle Enrichment
+Portable Miner	
+2 ×
+Iron Plate.png
+Iron Plate
+3 / min
+4 ×
+Iron Rod.png
+Iron Rod
+6 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Portable Miner.png
+Portable Miner
+1.5 / min
+Tier 0 - HUB Upgrade 1
+Power Shard (1)	
+1 ×
+Blue Power Slug.png
+Blue Power Slug
+7.5 / min
+Constructor
+8 sec
+Craft Bench
+Manual crafting.png × 4
+1 ×
+Power Shard.png
+Power Shard
+7.5 / min
+MAM Power Slugs Research - Blue Power Slugs
+Power Shard (2)	
+1 ×
+Yellow Power Slug.png
+Yellow Power Slug
+5 / min
+Constructor
+12 sec
+Craft Bench
+Manual crafting.png × 6
+2 ×
+Power Shard.png
+Power Shard
+10 / min
+MAM Power Slugs Research - Yellow Power Slugs
+Power Shard (5)	
+1 ×
+Purple Power Slug.png
+Purple Power Slug
+2.5 / min
+Constructor
+24 sec
+Craft Bench
+Manual crafting.png × 12
+5 ×
+Power Shard.png
+Power Shard
+12.5 / min
+MAM Power Slugs Research - Purple Power Slugs
+Pressure Conversion Cube	
+1 ×
+Fused Modular Frame.png
+Fused Modular Frame
+1 / min
+2 ×
+Radio Control Unit.png
+Radio Control Unit
+2 / min
+Assembler
+60 sec
+Craft Bench
+Manual crafting.png × 60
+1 ×
+Pressure Conversion Cube.png
+Pressure Conversion Cube
+1 / min
+Tier 8 - Particle Enrichment
+Protein Inhaler	
+1 ×
+Alien Protein.png
+Alien Protein
+3 / min
+10 ×
+Beryl Nut.png
+Beryl Nut
+30 / min
+Equipment Workshop
+Manual crafting.png × 10
+1 ×
+Medicinal Inhaler.png
+Medicinal Inhaler
+3 / min
+MAM Alien Megafauna Research - Protein Inhaler
+Pulse Nobelisk	
+5 ×
+Nobelisk.png
+Nobelisk
+5 / min
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1 / min
+Assembler
+60 sec
+Equipment Workshop
+Manual crafting.png × 20
+5 ×
+Pulse Nobelisk.png
+Pulse Nobelisk
+5 / min
+MAM Quartz Research - Explosive Resonance Application
+Quartz Crystal	
+5 ×
+Raw Quartz.png
+Raw Quartz
+37.5 / min
+Constructor
+8 sec
+Craft Bench
+Manual crafting.png × 8
+3 ×
+Quartz Crystal.png
+Quartz Crystal
+22.5 / min
+MAM Quartz Research - Quartz Crystals OR
+Tier 7 - Bauxite Refinement
+Quickwire	
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+12 / min
+Constructor
+5 sec
+Craft Bench
+Manual crafting.png × 5
+5 ×
+Quickwire.png
+Quickwire
+60 / min
+MAM Caterium Research - Quickwire OR
+Tier 5 - Petroleum Power
+Radio Control Unit	
+32 ×
+Aluminum Casing.png
+Aluminum Casing
+40 / min
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1.25 / min
+2 ×
+Computer.png
+Computer
+2.5 / min
+Manufacturer
+48 sec
+Craft Bench
+Manual crafting.png × 24
+2 ×
+Radio Control Unit.png
+Radio Control Unit
+2.5 / min
+Tier 7 - Control System Development
+Raw Quartz (Bauxite)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+10 ×
+Bauxite.png
+Bauxite
+100 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Raw Quartz.png
+Raw Quartz
+120 / min
+Tier 9 - Matter Conversion
+Raw Quartz (Coal)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+24 ×
+Coal.png
+Coal
+240 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Raw Quartz.png
+Raw Quartz
+120 / min
+Tier 9 - Matter Conversion
+Reanimated SAM	
+4 ×
+SAM.png
+SAM
+120 / min
+Constructor
+2 sec
+Craft Bench
+Manual crafting.png × 1
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+30 / min
+MAM Alien Technology Research - SAM Reanimation OR
+Tier 9 - Matter Conversion
+Rebar Gun	
+6 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+6 / min
+16 ×
+Iron Rod.png
+Iron Rod
+16 / min
+100 ×
+Screw.png
+Screw
+100 / min
+Equipment Workshop
+Manual crafting.png × 30
+1 ×
+Rebar Gun.png
+Rebar Gun
+1 / min
+MAM Alien Megafauna Research - The Rebar Gun
+Red FICSMAS Ornament
+FICSMAS	
+1 ×
+FICSMAS Gift.png
+FICSMAS Gift
+5 / min
+Smelter
+12 sec
+1 ×
+Red FICSMAS Ornament.png
+Red FICSMAS Ornament
+5 / min
+MAM FICSMAS Holiday Event Research - Giant FICSMAS Tree: Upgrade 1
+Reinforced Iron Plate	
+6 ×
+Iron Plate.png
+Iron Plate
+30 / min
+12 ×
+Screw.png
+Screw
+60 / min
+Assembler
+12 sec
+Craft Bench
+Manual crafting.png × 6
+1 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+5 / min
+Tier 0 - HUB Upgrade 3
+Residual Fuel	
+6 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+60 / min
+Refinery
+6 sec
+4 ×
+Fuel.png
+Fuel
+40 / min
+Tier 5 - Oil Processing
+Residual Plastic	
+6 ×
+Polymer Resin.png
+Polymer Resin
+60 / min
+2 ×
+Water.png
+Water
+20 / min
+Refinery
+6 sec
+2 ×
+Plastic.png
+Plastic
+20 / min
+Tier 5 - Oil Processing
+Residual Rubber	
+4 ×
+Polymer Resin.png
+Polymer Resin
+40 / min
+4 ×
+Water.png
+Water
+40 / min
+Refinery
+6 sec
+2 ×
+Rubber.png
+Rubber
+20 / min
+Tier 5 - Oil Processing
+Rifle	
+2 ×
+Motor.png
+Motor
+1 / min
+10 ×
+Rubber.png
+Rubber
+5 / min
+25 ×
+Steel Pipe.png
+Steel Pipe
+12.5 / min
+250 ×
+Screw.png
+Screw
+125 / min
+Equipment Workshop
+Manual crafting.png × 60
+1 ×
+Rifle.png
+Rifle
+0.5 / min
+MAM Sulfur Research - The Rifle
+Rifle Ammo	
+3 ×
+Copper Sheet.png
+Copper Sheet
+15 / min
+2 ×
+Smokeless Powder.png
+Smokeless Powder
+10 / min
+Assembler
+12 sec
+Equipment Workshop
+Manual crafting.png × 6
+15 ×
+Rifle Ammo.png
+Rifle Ammo
+75 / min
+MAM Sulfur Research - The Rifle
+Rocket Fuel	
+6 ×
+Turbofuel.png
+Turbofuel
+60 / min
+1 ×
+Nitric Acid.png
+Nitric Acid
+10 / min
+Blender
+6 sec
+10 ×
+Rocket Fuel.png
+Rocket Fuel
+100 / min
+1 ×
+Compacted Coal.png
+Compacted Coal
+10 / min
+MAM Sulfur Research - Rocket Fuel
+Rotor	
+5 ×
+Iron Rod.png
+Iron Rod
+20 / min
+25 ×
+Screw.png
+Screw
+100 / min
+Assembler
+15 sec
+Craft Bench
+Manual crafting.png × 6
+1 ×
+Rotor.png
+Rotor
+4 / min
+Tier 2 - Part Assembly
+Rubber	
+3 ×
+Crude Oil.png
+Crude Oil
+30 / min
+Refinery
+6 sec
+2 ×
+Rubber.png
+Rubber
+20 / min
+2 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+20 / min
+Tier 5 - Oil Processing
+SAM Fluctuator	
+6 ×
+Reanimated SAM.png
+Reanimated SAM
+60 / min
+5 ×
+Wire.png
+Wire
+50 / min
+3 ×
+Steel Pipe.png
+Steel Pipe
+30 / min
+Manufacturer
+6 sec
+Craft Bench
+Manual crafting.png × 3
+1 ×
+SAM Fluctuator.png
+SAM Fluctuator
+10 / min
+MAM Alien Technology Research - SAM Fluctuator OR
+Tier 9 - Matter Conversion
+Screw	
+1 ×
+Iron Rod.png
+Iron Rod
+10 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+4 ×
+Screw.png
+Screw
+40 / min
+Tier 0 - HUB Upgrade 3
+Shatter Rebar	
+2 ×
+Iron Rebar.png
+Iron Rebar
+10 / min
+3 ×
+Quartz Crystal.png
+Quartz Crystal
+15 / min
+Assembler
+12 sec
+Equipment Workshop
+Manual crafting.png × 6
+1 ×
+Shatter Rebar.png
+Shatter Rebar
+5 / min
+MAM Quartz Research - Shatter Rebar
+Silica	
+3 ×
+Raw Quartz.png
+Raw Quartz
+22.5 / min
+Constructor
+8 sec
+Craft Bench
+Manual crafting.png × 8
+5 ×
+Silica.png
+Silica
+37.5 / min
+MAM Quartz Research - Silica OR
+Tier 7 - Bauxite Refinement
+Singularity Cell	
+1 ×
+Nuclear Pasta.png
+Nuclear Pasta
+1 / min
+20 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+20 / min
+100 ×
+Iron Plate.png
+Iron Plate
+100 / min
+200 ×
+Concrete.png
+Concrete
+200 / min
+Manufacturer
+60 sec
+10 ×
+Singularity Cell.png
+Singularity Cell
+10 / min
+Tier 9 - Spatial Energy Regulation
+Smart Plating	
+1 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+2 / min
+1 ×
+Rotor.png
+Rotor
+2 / min
+Assembler
+30 sec
+1 ×
+Smart Plating.png
+Smart Plating
+2 / min
+Tier 2 - Part Assembly
+Smokeless Powder	
+2 ×
+Black Powder.png
+Black Powder
+20 / min
+1 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+10 / min
+Refinery
+6 sec
+2 ×
+Smokeless Powder.png
+Smokeless Powder
+20 / min
+MAM Sulfur Research - Smokeless Powder
+Snowball
+FICSMAS	
+3 ×
+Actual Snow.png
+FICSMAS Actual Snow
+15 / min
+Constructor
+12 sec
+1 ×
+Snowball.png
+Snowball
+5 / min
+MAM FICSMAS Holiday Event Research - Snowfight!
+Solid Biofuel	
+8 ×
+Biomass.png
+Biomass
+120 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 10
+4 ×
+Solid Biofuel.png
+Solid Biofuel
+60 / min
+Tier 2 - Obstacle Clearing
+Sparkly Fireworks
+FICSMAS	
+3 ×
+FICSMAS Tree Branch.png
+FICSMAS Tree Branch
+7.5 / min
+2 ×
+Actual Snow.png
+FICSMAS Actual Snow
+5 / min
+Assembler
+24 sec
+Equipment Workshop
+Manual crafting.png × 12
+1 ×
+Sparkly Fireworks.png
+Sparkly Fireworks
+2.5 / min
+Equipment: Fireworks
+Spitter Protein	
+1 ×
+Spitter Remains.png
+Spitter Remains
+20 / min
+Constructor
+3 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Alien Protein.png
+Alien Protein
+20 / min
+MAM Alien Megafauna Research - Spitter Research
+Stator	
+3 ×
+Steel Pipe.png
+Steel Pipe
+15 / min
+8 ×
+Wire.png
+Wire
+40 / min
+Assembler
+12 sec
+Craft Bench
+Manual crafting.png × 9
+1 ×
+Stator.png
+Stator
+5 / min
+Tier 4 - Advanced Steel Production
+Steel Beam	
+4 ×
+Steel Ingot.png
+Steel Ingot
+60 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Steel Beam.png
+Steel Beam
+15 / min
+Tier 3 - Basic Steel Production
+Steel Ingot	
+3 ×
+Iron Ore.png
+Iron Ore
+45 / min
+3 ×
+Coal.png
+Coal
+45 / min
+Foundry
+4 sec
+Craft Bench
+Manual crafting.png × 6
+3 ×
+Steel Ingot.png
+Steel Ingot
+45 / min
+Tier 3 - Basic Steel Production
+Steel Pipe	
+3 ×
+Steel Ingot.png
+Steel Ingot
+30 / min
+Constructor
+6 sec
+Craft Bench
+Manual crafting.png × 3
+2 ×
+Steel Pipe.png
+Steel Pipe
+20 / min
+Tier 3 - Basic Steel Production
+Stinger Protein	
+1 ×
+Stinger Remains.png
+Stinger Remains
+20 / min
+Constructor
+3 sec
+Craft Bench
+Manual crafting.png × 2
+1 ×
+Alien Protein.png
+Alien Protein
+20 / min
+MAM Alien Megafauna Research - Stinger Research
+Stun Rebar	
+1 ×
+Iron Rebar.png
+Iron Rebar
+10 / min
+5 ×
+Quickwire.png
+Quickwire
+50 / min
+Assembler
+6 sec
+Equipment Workshop
+Manual crafting.png × 4
+1 ×
+Stun Rebar.png
+Stun Rebar
+10 / min
+MAM Caterium Research - Stun Rebar
+Sulfur (Coal)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+20 ×
+Coal.png
+Coal
+200 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Sulfur.png
+Sulfur
+120 / min
+Tier 9 - Matter Conversion
+Sulfur (Iron)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+30 ×
+Iron Ore.png
+Iron Ore
+300 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Sulfur.png
+Sulfur
+120 / min
+Tier 9 - Matter Conversion
+Sulfuric Acid	
+5 ×
+Sulfur.png
+Sulfur
+50 / min
+5 ×
+Water.png
+Water
+50 / min
+Refinery
+6 sec
+5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+50 / min
+Tier 7 - Control System Development
+Supercomputer	
+4 ×
+Computer.png
+Computer
+7.5 / min
+2 ×
+AI Limiter.png
+AI Limiter
+3.75 / min
+3 ×
+High-Speed Connector.png
+High-Speed Connector
+5.625 / min
+28 ×
+Plastic.png
+Plastic
+52.5 / min
+Manufacturer
+32 sec
+Craft Bench
+Manual crafting.png × 24
+1 ×
+Supercomputer.png
+Supercomputer
+1.875 / min
+Tier 7 - Control System Development
+Superposition Oscillator	
+6 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+30 / min
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+5 / min
+9 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+45 / min
+25 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+125 / min
+Quantum Encoder
+12 sec
+0 - 2,000 MW
+1 ×
+Superposition Oscillator.png
+Superposition Oscillator
+5 / min
+25 ×
+Dark Matter Residue.png
+Dark Matter Residue
+125 / min
+Tier 9 - Quantum Encoding
+Sweet Fireworks
+FICSMAS	
+6 ×
+FICSMAS Tree Branch.png
+FICSMAS Tree Branch
+15 / min
+3 ×
+Candy Cane.png
+Candy Cane
+7.5 / min
+Assembler
+24 sec
+Equipment Workshop
+Manual crafting.png × 12
+1 ×
+Sweet Fireworks.png
+Sweet Fireworks
+2.5 / min
+Equipment: Fireworks
+Synthetic Power Shard	
+2 ×
+Time Crystal.png
+Time Crystal
+10 / min
+2 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+10 / min
+12 ×
+Quartz Crystal.png
+Quartz Crystal
+60 / min
+12 ×
+Excited Photonic Matter.png
+Excited Photonic Matter
+60 / min
+Quantum Encoder
+12 sec
+0 - 2,000 MW
+1 ×
+Power Shard.png
+Power Shard
+5 / min
+12 ×
+Dark Matter Residue.png
+Dark Matter Residue
+60 / min
+MAM Power Slugs Research - Synthetic Power Shards
+Therapeutic Inhaler	
+15 ×
+Mycelia.png
+Mycelia
+45 / min
+1 ×
+Alien Protein.png
+Alien Protein
+3 / min
+1 ×
+Bacon Agaric.png
+Bacon Agaric
+3 / min
+Equipment Workshop
+Manual crafting.png × 10
+1 ×
+Medicinal Inhaler.png
+Medicinal Inhaler
+3 / min
+MAM Mycelia Research - Therapeutic Inhaler
+Thermal Propulsion Rocket	
+5 ×
+Modular Engine.png
+Modular Engine
+2.5 / min
+2 ×
+Turbo Motor.png
+Turbo Motor
+1 / min
+6 ×
+Cooling System.png
+Cooling System
+3 / min
+2 ×
+Fused Modular Frame.png
+Fused Modular Frame
+1 / min
+Manufacturer
+120 sec
+2 ×
+Thermal Propulsion Rocket.png
+Thermal Propulsion Rocket
+1 / min
+Tier 8 - Leading-Edge Production
+Time Crystal	
+2 ×
+Diamonds.png
+Diamonds
+12 / min
+Converter
+10 sec
+100 - 400 MW
+1 ×
+Time Crystal.png
+Time Crystal
+6 / min
+Tier 9 - Matter Conversion
+Turbo Motor	
+4 ×
+Cooling System.png
+Cooling System
+7.5 / min
+2 ×
+Radio Control Unit.png
+Radio Control Unit
+3.75 / min
+4 ×
+Motor.png
+Motor
+7.5 / min
+24 ×
+Rubber.png
+Rubber
+45 / min
+Manufacturer
+32 sec
+Craft Bench
+Manual crafting.png × 32
+1 ×
+Turbo Motor.png
+Turbo Motor
+1.875 / min
+Tier 8 - Leading-Edge Production
+Turbo Rifle Ammo	
+25 ×
+Rifle Ammo.png
+Rifle Ammo
+125 / min
+3 ×
+Aluminum Casing.png
+Aluminum Casing
+15 / min
+3 ×
+Packaged Turbofuel.png
+Packaged Turbofuel
+15 / min
+Manufacturer
+12 sec
+Equipment Workshop
+Manual crafting.png × 20
+50 ×
+Turbo Rifle Ammo.png
+Turbo Rifle Ammo
+250 / min
+MAM Sulfur Research - Turbo Rifle Ammo
+Turbo Rifle Ammo	
+25 ×
+Rifle Ammo.png
+Rifle Ammo
+125 / min
+3 ×
+Aluminum Casing.png
+Aluminum Casing
+15 / min
+3 ×
+Turbofuel.png
+Turbofuel
+15 / min
+Blender
+12 sec
+50 ×
+Turbo Rifle Ammo.png
+Turbo Rifle Ammo
+250 / min
+MAM Sulfur Research - Turbo Rifle Ammo
+Unpackage Alumina Solution	
+2 ×
+Packaged Alumina Solution.png
+Packaged Alumina Solution
+120 / min
+Packager
+1 sec
+2 ×
+Alumina Solution.png
+Alumina Solution
+120 / min
+2 ×
+Empty Canister.png
+Empty Canister
+120 / min
+Tier 7 - Bauxite Refinement
+Unpackage Fuel	
+2 ×
+Packaged Fuel.png
+Packaged Fuel
+60 / min
+Packager
+2 sec
+2 ×
+Fuel.png
+Fuel
+60 / min
+2 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 5 - Fluid Packaging
+Unpackage Heavy Oil Residue	
+2 ×
+Packaged Heavy Oil Residue.png
+Packaged Heavy Oil Residue
+20 / min
+Packager
+6 sec
+2 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+20 / min
+2 ×
+Empty Canister.png
+Empty Canister
+20 / min
+Tier 5 - Fluid Packaging
+Unpackage Ionized Fuel	
+2 ×
+Packaged Ionized Fuel.png
+Packaged Ionized Fuel
+40 / min
+Packager
+3 sec
+4 ×
+Ionized Fuel.png
+Ionized Fuel
+80 / min
+2 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+40 / min
+MAM Sulfur Research - Ionized Fuel
+Unpackage Liquid Biofuel	
+2 ×
+Packaged Liquid Biofuel.png
+Packaged Liquid Biofuel
+60 / min
+Packager
+2 sec
+2 ×
+Liquid Biofuel.png
+Liquid Biofuel
+60 / min
+2 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 5 - Fluid Packaging
+Unpackage Nitric Acid	
+1 ×
+Packaged Nitric Acid.png
+Packaged Nitric Acid
+20 / min
+Packager
+3 sec
+1 ×
+Nitric Acid.png
+Nitric Acid
+20 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+20 / min
+Tier 8 - Particle Enrichment
+Unpackage Nitrogen Gas	
+1 ×
+Packaged Nitrogen Gas.png
+Packaged Nitrogen Gas
+60 / min
+Packager
+1 sec
+4 ×
+Nitrogen Gas.png
+Nitrogen Gas
+240 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+60 / min
+Tier 8 - Advanced Aluminum Production
+Unpackage Oil	
+2 ×
+Packaged Oil.png
+Packaged Oil
+60 / min
+Packager
+2 sec
+2 ×
+Crude Oil.png
+Crude Oil
+60 / min
+2 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 5 - Fluid Packaging
+Unpackage Rocket Fuel	
+1 ×
+Packaged Rocket Fuel.png
+Packaged Rocket Fuel
+60 / min
+Packager
+1 sec
+2 ×
+Rocket Fuel.png
+Rocket Fuel
+120 / min
+1 ×
+Empty Fluid Tank.png
+Empty Fluid Tank
+60 / min
+MAM Sulfur Research - Rocket Fuel
+Unpackage Sulfuric Acid	
+1 ×
+Packaged Sulfuric Acid.png
+Packaged Sulfuric Acid
+60 / min
+Packager
+1 sec
+1 ×
+Sulfuric Acid.png
+Sulfuric Acid
+60 / min
+1 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 7 - Control System Development
+Unpackage Turbofuel	
+2 ×
+Packaged Turbofuel.png
+Packaged Turbofuel
+20 / min
+Packager
+6 sec
+2 ×
+Turbofuel.png
+Turbofuel
+20 / min
+2 ×
+Empty Canister.png
+Empty Canister
+20 / min
+Tier 7 - Control System Development OR
+MAM Sulfur Research - Turbofuel OR
+Tier 5 - Oil Processing AND
+MAM Sulfur Research - Compacted Coal
+Unpackage Water	
+2 ×
+Packaged Water.png
+Packaged Water
+120 / min
+Packager
+1 sec
+2 ×
+Water.png
+Water
+120 / min
+2 ×
+Empty Canister.png
+Empty Canister
+120 / min
+Tier 5 - Fluid Packaging
+Uranium Fuel Rod	
+50 ×
+Encased Uranium Cell.png
+Encased Uranium Cell
+20 / min
+3 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+1.2 / min
+5 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+2 / min
+Manufacturer
+150 sec
+1 ×
+Uranium Fuel Rod.png
+Uranium Fuel Rod
+0.4 / min
+Tier 8 - Nuclear Power
+Uranium Fuel Rod (burning)	
+1 ×
+Uranium Fuel Rod.png
+Uranium Fuel Rod
+0.2 / min
+1,200 ×
+Water.png
+Water
+240 / min
+Nuclear Power Plant
+300 sec
+50 ×
+Uranium Waste.png
+Uranium Waste
+10 / min
+Tier 8 - Nuclear Power
+Uranium Ore (Bauxite)	
+1 ×
+Reanimated SAM.png
+Reanimated SAM
+10 / min
+48 ×
+Bauxite.png
+Bauxite
+480 / min
+Converter
+6 sec
+100 - 400 MW
+12 ×
+Uranium.png
+Uranium
+120 / min
+Tier 9 - Matter Conversion
+Versatile Framework	
+1 ×
+Modular Frame.png
+Modular Frame
+2.5 / min
+12 ×
+Steel Beam.png
+Steel Beam
+30 / min
+Assembler
+24 sec
+2 ×
+Versatile Framework.png
+Versatile Framework
+5 / min
+Tier 3 - Basic Steel Production
+Vitamin Inhaler	
+10 ×
+Mycelia.png
+Mycelia
+30 / min
+5 ×
+Paleberry.png
+Paleberry
+15 / min
+Equipment Workshop
+Manual crafting.png × 10
+1 ×
+Medicinal Inhaler.png
+Medicinal Inhaler
+3 / min
+MAM Mycelia Research - Vitamin Inhaler
+Wire	
+1 ×
+Copper Ingot.png
+Copper Ingot
+15 / min
+Constructor
+4 sec
+Craft Bench
+Manual crafting.png × 2
+2 ×
+Wire.png
+Wire
+30 / min
+Tier 0 - HUB Upgrade 2
+Xeno-Basher	
+2 ×
+Xeno-Zapper.png
+Xeno-Zapper
+1.5 / min
+5 ×
+Modular Frame.png
+Modular Frame
+3.75 / min
+25 ×
+Iron Rod.png
+Iron Rod
+18.75 / min
+500 ×
+Wire.png
+Wire
+375 / min
+Equipment Workshop
+Manual crafting.png × 40
+1 ×
+Xeno-Basher.png
+Xeno-Basher
+0.75 / min
+Tier 3 - Enhanced Asset Security
+Xeno-Zapper	
+10 ×
+Iron Rod.png
+Iron Rod
+15 / min
+2 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+3 / min
+15 ×
+Cable.png
+Cable
+22.5 / min
+50 ×
+Wire.png
+Wire
+75 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Xeno-Zapper.png
+Xeno-Zapper
+1.5 / min
+Onboarding
+Zipline	
+1 ×
+Xeno-Zapper.png
+Xeno-Zapper
+1.5 / min
+30 ×
+Quickwire.png
+Quickwire
+45 / min
+3 ×
+Iron Rod.png
+Iron Rod
+4.5 / min
+10 ×
+Cable.png
+Cable
+15 / min
+Equipment Workshop
+Manual crafting.png × 20
+1 ×
+Zipline.png
+Zipline
+1.5 / min
+MAM Caterium Research - Zipline
+Adhered Iron Plate
+Alternate
+3 ×
+Iron Plate.png
+Iron Plate
+11.25 / min
+1 ×
+Rubber.png
+Rubber
+3.75 / min
+Assembler
+16 sec
+1 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+3.75 / min
+Tier 5 - Oil Processing
+Alclad Casing
+Alternate
+20 ×
+Aluminum Ingot.png
+Aluminum Ingot
+150 / min
+10 ×
+Copper Ingot.png
+Copper Ingot
+75 / min
+Assembler
+8 sec
+15 ×
+Aluminum Casing.png
+Aluminum Casing
+112.5 / min
+Tier 7 - Bauxite Refinement
+Aluminum Beam
+Alternate
+3 ×
+Aluminum Ingot.png
+Aluminum Ingot
+22.5 / min
+Constructor
+8 sec
+3 ×
+Steel Beam.png
+Steel Beam
+22.5 / min
+Tier 7 - Bauxite Refinement
+Aluminum Rod
+Alternate
+1 ×
+Aluminum Ingot.png
+Aluminum Ingot
+7.5 / min
+Constructor
+8 sec
+7 ×
+Iron Rod.png
+Iron Rod
+52.5 / min
+Tier 7 - Bauxite Refinement
+Automated Miner
+Alternate
+4 ×
+Steel Pipe.png
+Steel Pipe
+4 / min
+4 ×
+Iron Plate.png
+Iron Plate
+4 / min
+Assembler
+60 sec
+1 ×
+Portable Miner.png
+Portable Miner
+1 / min
+Tier 3 - Basic Steel Production
+Automated Speed Wiring
+Alternate
+2 ×
+Stator.png
+Stator
+3.75 / min
+40 ×
+Wire.png
+Wire
+75 / min
+1 ×
+High-Speed Connector.png
+High-Speed Connector
+1.875 / min
+Manufacturer
+32 sec
+4 ×
+Automated Wiring.png
+Automated Wiring
+7.5 / min
+Tier 4 - Advanced Steel Production AND
+MAM Caterium Research - AI Limiter
+Basic Iron Ingot
+Alternate
+5 ×
+Iron Ore.png
+Iron Ore
+25 / min
+8 ×
+Limestone.png
+Limestone
+40 / min
+Foundry
+12 sec
+10 ×
+Iron Ingot.png
+Iron Ingot
+50 / min
+Tier 3 - Basic Steel Production
+Biocoal
+Alternate
+5 ×
+Biomass.png
+Biomass
+37.5 / min
+Constructor
+8 sec
+6 ×
+Coal.png
+Coal
+45 / min
+Tier 3 - Coal Power
+Bolted Frame
+Alternate
+3 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+7.5 / min
+56 ×
+Screw.png
+Screw
+140 / min
+Assembler
+24 sec
+2 ×
+Modular Frame.png
+Modular Frame
+5 / min
+Tier 2 - Part Assembly
+Bolted Iron Plate
+Alternate
+18 ×
+Iron Plate.png
+Iron Plate
+90 / min
+50 ×
+Screw.png
+Screw
+250 / min
+Assembler
+12 sec
+3 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+15 / min
+Tier 2 - Part Assembly
+Cast Screw
+Alternate
+5 ×
+Iron Ingot.png
+Iron Ingot
+12.5 / min
+Constructor
+24 sec
+20 ×
+Screw.png
+Screw
+50 / min
+Caterium Circuit Board
+Alternate
+10 ×
+Plastic.png
+Plastic
+12.5 / min
+30 ×
+Quickwire.png
+Quickwire
+37.5 / min
+Assembler
+48 sec
+7 ×
+Circuit Board.png
+Circuit Board
+8.75 / min
+Tier 5 - Oil Processing OR
+MAM Caterium Research - Caterium Ingots
+Caterium Computer
+Alternate
+4 ×
+Circuit Board.png
+Circuit Board
+15 / min
+14 ×
+Quickwire.png
+Quickwire
+52.5 / min
+6 ×
+Rubber.png
+Rubber
+22.5 / min
+Manufacturer
+16 sec
+1 ×
+Computer.png
+Computer
+3.75 / min
+Tier 6 - Industrial Manufacturing OR
+MAM Caterium Research - Caterium Ingots
+Caterium Wire
+Alternate
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+15 / min
+Constructor
+4 sec
+8 ×
+Wire.png
+Wire
+120 / min
+MAM Caterium Research - Caterium
+Charcoal
+Alternate
+1 ×
+Wood.png
+Wood
+15 / min
+Constructor
+4 sec
+10 ×
+Coal.png
+Coal
+150 / min
+Tier 3 - Coal Power
+Cheap Silica
+Alternate
+3 ×
+Raw Quartz.png
+Raw Quartz
+22.5 / min
+5 ×
+Limestone.png
+Limestone
+37.5 / min
+Assembler
+8 sec
+7 ×
+Silica.png
+Silica
+52.5 / min
+MAM Quartz Research - Silica
+Classic Battery
+Alternate
+6 ×
+Sulfur.png
+Sulfur
+45 / min
+7 ×
+Alclad Aluminum Sheet.png
+Alclad Aluminum Sheet
+52.5 / min
+8 ×
+Plastic.png
+Plastic
+60 / min
+12 ×
+Wire.png
+Wire
+90 / min
+Manufacturer
+8 sec
+4 ×
+Battery.png
+Battery
+30 / min
+Tier 7 - Control System Development
+Cloudy Diamonds
+Alternate
+12 ×
+Coal.png
+Coal
+240 / min
+24 ×
+Limestone.png
+Limestone
+480 / min
+Particle Accelerator
+3 sec
+250 - 750 MW
+1 ×
+Diamonds.png
+Diamonds
+20 / min
+Tier 9 - Matter Conversion
+Coated Cable
+Alternate
+5 ×
+Wire.png
+Wire
+37.5 / min
+2 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+15 / min
+Refinery
+8 sec
+9 ×
+Cable.png
+Cable
+67.5 / min
+Tier 5 - Oil Processing
+Coated Iron Canister
+Alternate
+2 ×
+Iron Plate.png
+Iron Plate
+30 / min
+1 ×
+Copper Sheet.png
+Copper Sheet
+15 / min
+Assembler
+4 sec
+4 ×
+Empty Canister.png
+Empty Canister
+60 / min
+Tier 5 - Fluid Packaging
+Coated Iron Plate
+Alternate
+5 ×
+Iron Ingot.png
+Iron Ingot
+37.5 / min
+1 ×
+Plastic.png
+Plastic
+7.5 / min
+Assembler
+8 sec
+10 ×
+Iron Plate.png
+Iron Plate
+75 / min
+Tier 5 - Oil Processing
+Coke Steel Ingot
+Alternate
+15 ×
+Iron Ore.png
+Iron Ore
+75 / min
+15 ×
+Petroleum Coke.png
+Petroleum Coke
+75 / min
+Foundry
+12 sec
+20 ×
+Steel Ingot.png
+Steel Ingot
+100 / min
+Tier 5 - Oil Processing
+Compacted Coal
+Alternate
+5 ×
+Coal.png
+Coal
+25 / min
+5 ×
+Sulfur.png
+Sulfur
+25 / min
+Assembler
+12 sec
+5 ×
+Compacted Coal.png
+Compacted Coal
+25 / min
+MAM Sulfur Research - Compacted Coal
+Compacted Steel Ingot
+Alternate
+2 ×
+Iron Ore.png
+Iron Ore
+5 / min
+1 ×
+Compacted Coal.png
+Compacted Coal
+2.5 / min
+Foundry
+24 sec
+4 ×
+Steel Ingot.png
+Steel Ingot
+10 / min
+MAM Sulfur Research - Compacted Coal AND
+Tier 3 - Basic Steel Production
+Cooling Device
+Alternate
+4 ×
+Heat Sink.png
+Heat Sink
+10 / min
+1 ×
+Motor.png
+Motor
+2.5 / min
+24 ×
+Nitrogen Gas.png
+Nitrogen Gas
+60 / min
+Blender
+24 sec
+2 ×
+Cooling System.png
+Cooling System
+5 / min
+Tier 8 - Advanced Aluminum Production
+Copper Alloy Ingot
+Alternate
+5 ×
+Copper Ore.png
+Copper Ore
+50 / min
+5 ×
+Iron Ore.png
+Iron Ore
+50 / min
+Foundry
+6 sec
+10 ×
+Copper Ingot.png
+Copper Ingot
+100 / min
+Tier 3 - Basic Steel Production
+Copper Rotor
+Alternate
+6 ×
+Copper Sheet.png
+Copper Sheet
+22.5 / min
+52 ×
+Screw.png
+Screw
+195 / min
+Assembler
+16 sec
+3 ×
+Rotor.png
+Rotor
+11.25 / min
+Tier 2 - Part Assembly
+Crystal Computer
+Alternate
+3 ×
+Circuit Board.png
+Circuit Board
+5 / min
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1.66667 / min
+Assembler
+36 sec
+2 ×
+Computer.png
+Computer
+3.33333 / min
+Tier 6 - Industrial Manufacturing OR
+MAM Quartz Research - Quartz Crystals
+Dark Matter Crystallization
+Alternate
+10 ×
+Dark Matter Residue.png
+Dark Matter Residue
+200 / min
+Particle Accelerator
+3 sec
+500 - 1,500 MW
+1 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+20 / min
+Tier 9 - Quantum Encoding
+Dark Matter Trap
+Alternate
+1 ×
+Time Crystal.png
+Time Crystal
+30 / min
+5 ×
+Dark Matter Residue.png
+Dark Matter Residue
+150 / min
+Particle Accelerator
+2 sec
+500 - 1,500 MW
+2 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+60 / min
+Tier 9 - Quantum Encoding
+Dark-Ion Fuel
+Alternate
+12 ×
+Packaged Rocket Fuel.png
+Packaged Rocket Fuel
+240 / min
+4 ×
+Dark Matter Crystal.png
+Dark Matter Crystal
+80 / min
+Converter
+3 sec
+100 - 400 MW
+10 ×
+Ionized Fuel.png
+Ionized Fuel
+200 / min
+2 ×
+Compacted Coal.png
+Compacted Coal
+40 / min
+Tier 9 - Quantum Encoding OR
+MAM Sulfur Research - Ionized Fuel
+Diluted Fuel
+Alternate
+5 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+50 / min
+10 ×
+Water.png
+Water
+100 / min
+Blender
+6 sec
+10 ×
+Fuel.png
+Fuel
+100 / min
+Tier 7 - Control System Development
+Diluted Packaged Fuel
+Alternate
+1 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+30 / min
+2 ×
+Packaged Water.png
+Packaged Water
+60 / min
+Refinery
+2 sec
+2 ×
+Packaged Fuel.png
+Packaged Fuel
+60 / min
+Tier 5 - Oil Processing
+Distilled Silica
+Alternate
+12 ×
+Dissolved Silica.png
+Dissolved Silica
+120 / min
+5 ×
+Limestone.png
+Limestone
+50 / min
+10 ×
+Water.png
+Water
+100 / min
+Blender
+6 sec
+27 ×
+Silica.png
+Silica
+270 / min
+8 ×
+Water.png
+Water
+80 / min
+Tier 7 - Control System Development
+Electric Motor
+Alternate
+1 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+3.75 / min
+2 ×
+Rotor.png
+Rotor
+7.5 / min
+Assembler
+16 sec
+2 ×
+Motor.png
+Motor
+7.5 / min
+Tier 8 - Nuclear Power
+Electrode Aluminum Scrap
+Alternate
+12 ×
+Alumina Solution.png
+Alumina Solution
+180 / min
+4 ×
+Petroleum Coke.png
+Petroleum Coke
+60 / min
+Refinery
+4 sec
+20 ×
+Aluminum Scrap.png
+Aluminum Scrap
+300 / min
+7 ×
+Water.png
+Water
+105 / min
+Tier 7 - Bauxite Refinement
+Electrode Circuit Board
+Alternate
+4 ×
+Rubber.png
+Rubber
+20 / min
+8 ×
+Petroleum Coke.png
+Petroleum Coke
+40 / min
+Assembler
+12 sec
+1 ×
+Circuit Board.png
+Circuit Board
+5 / min
+Tier 5 - Oil Processing
+Electromagnetic Connection Rod
+Alternate
+2 ×
+Stator.png
+Stator
+8 / min
+1 ×
+High-Speed Connector.png
+High-Speed Connector
+4 / min
+Assembler
+15 sec
+2 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+8 / min
+Tier 8 - Nuclear Power OR
+MAM Caterium Research - AI Limiter
+Encased Industrial Pipe
+Alternate
+6 ×
+Steel Pipe.png
+Steel Pipe
+24 / min
+5 ×
+Concrete.png
+Concrete
+20 / min
+Assembler
+15 sec
+1 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+4 / min
+Tier 4 - Advanced Steel Production
+Fertile Uranium
+Alternate
+5 ×
+Uranium.png
+Uranium
+25 / min
+5 ×
+Uranium Waste.png
+Uranium Waste
+25 / min
+3 ×
+Nitric Acid.png
+Nitric Acid
+15 / min
+5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+25 / min
+Blender
+12 sec
+20 ×
+Non-Fissile Uranium.png
+Non-Fissile Uranium
+100 / min
+8 ×
+Water.png
+Water
+40 / min
+Tier 8 - Particle Enrichment
+Fine Black Powder
+Alternate
+1 ×
+Sulfur.png
+Sulfur
+7.5 / min
+2 ×
+Compacted Coal.png
+Compacted Coal
+15 / min
+Assembler
+8 sec
+6 ×
+Black Powder.png
+Black Powder
+45 / min
+MAM Sulfur Research - Compacted Coal
+Fine Concrete
+Alternate
+3 ×
+Silica.png
+Silica
+15 / min
+12 ×
+Limestone.png
+Limestone
+60 / min
+Assembler
+12 sec
+10 ×
+Concrete.png
+Concrete
+50 / min
+MAM Quartz Research - Quartz
+Flexible Framework
+Alternate
+1 ×
+Modular Frame.png
+Modular Frame
+3.75 / min
+6 ×
+Steel Beam.png
+Steel Beam
+22.5 / min
+8 ×
+Rubber.png
+Rubber
+30 / min
+Manufacturer
+16 sec
+2 ×
+Versatile Framework.png
+Versatile Framework
+7.5 / min
+Tier 5 - Oil Processing
+Fused Quartz Crystal
+Alternate
+25 ×
+Raw Quartz.png
+Raw Quartz
+75 / min
+12 ×
+Coal.png
+Coal
+36 / min
+Foundry
+20 sec
+18 ×
+Quartz Crystal.png
+Quartz Crystal
+54 / min
+MAM Quartz Research - Quartz Crystals AND
+Tier 3 - Basic Steel Production
+Fused Quickwire
+Alternate
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+7.5 / min
+5 ×
+Copper Ingot.png
+Copper Ingot
+37.5 / min
+Assembler
+8 sec
+12 ×
+Quickwire.png
+Quickwire
+90 / min
+MAM Caterium Research - Caterium Ingots
+Fused Wire
+Alternate
+4 ×
+Copper Ingot.png
+Copper Ingot
+12 / min
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+3 / min
+Assembler
+20 sec
+30 ×
+Wire.png
+Wire
+90 / min
+MAM Caterium Research - Caterium
+Heat Exchanger
+Alternate
+3 ×
+Aluminum Casing.png
+Aluminum Casing
+30 / min
+3 ×
+Rubber.png
+Rubber
+30 / min
+Assembler
+6 sec
+1 ×
+Heat Sink.png
+Heat Sink
+10 / min
+Tier 8 - Advanced Aluminum Production
+Heat-Fused Frame
+Alternate
+1 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+3 / min
+50 ×
+Aluminum Ingot.png
+Aluminum Ingot
+150 / min
+8 ×
+Nitric Acid.png
+Nitric Acid
+24 / min
+10 ×
+Fuel.png
+Fuel
+30 / min
+Blender
+20 sec
+1 ×
+Fused Modular Frame.png
+Fused Modular Frame
+3 / min
+Tier 8 - Particle Enrichment
+Heavy Encased Frame
+Alternate
+8 ×
+Modular Frame.png
+Modular Frame
+7.5 / min
+10 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+9.375 / min
+36 ×
+Steel Pipe.png
+Steel Pipe
+33.75 / min
+22 ×
+Concrete.png
+Concrete
+20.625 / min
+Manufacturer
+64 sec
+3 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+2.8125 / min
+Tier 6 - Industrial Manufacturing
+Heavy Flexible Frame
+Alternate
+5 ×
+Modular Frame.png
+Modular Frame
+18.75 / min
+3 ×
+Encased Industrial Beam.png
+Encased Industrial Beam
+11.25 / min
+20 ×
+Rubber.png
+Rubber
+75 / min
+104 ×
+Screw.png
+Screw
+390 / min
+Manufacturer
+16 sec
+1 ×
+Heavy Modular Frame.png
+Heavy Modular Frame
+3.75 / min
+Tier 6 - Industrial Manufacturing
+Heavy Oil Residue
+Alternate
+3 ×
+Crude Oil.png
+Crude Oil
+30 / min
+Refinery
+6 sec
+4 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+40 / min
+2 ×
+Polymer Resin.png
+Polymer Resin
+20 / min
+Tier 5 - Oil Processing
+Infused Uranium Cell
+Alternate
+5 ×
+Uranium.png
+Uranium
+25 / min
+3 ×
+Silica.png
+Silica
+15 / min
+5 ×
+Sulfur.png
+Sulfur
+25 / min
+15 ×
+Quickwire.png
+Quickwire
+75 / min
+Manufacturer
+12 sec
+4 ×
+Encased Uranium Cell.png
+Encased Uranium Cell
+20 / min
+Tier 8 - Nuclear Power OR
+MAM Caterium Research - Caterium Ingots OR
+MAM Quartz Research - Quartz OR
+MAM Sulfur Research - Sulfur
+Instant Plutonium Cell
+Alternate
+150 ×
+Non-Fissile Uranium.png
+Non-Fissile Uranium
+75 / min
+20 ×
+Aluminum Casing.png
+Aluminum Casing
+10 / min
+Particle Accelerator
+120 sec
+250 - 750 MW
+20 ×
+Encased Plutonium Cell.png
+Encased Plutonium Cell
+10 / min
+Tier 8 - Particle Enrichment
+Instant Scrap
+Alternate
+15 ×
+Bauxite.png
+Bauxite
+150 / min
+10 ×
+Coal.png
+Coal
+100 / min
+5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+50 / min
+6 ×
+Water.png
+Water
+60 / min
+Blender
+6 sec
+30 ×
+Aluminum Scrap.png
+Aluminum Scrap
+300 / min
+5 ×
+Water.png
+Water
+50 / min
+Tier 7 - Bauxite Refinement OR
+Tier 7 - Control System Development
+Insulated Cable
+Alternate
+9 ×
+Wire.png
+Wire
+45 / min
+6 ×
+Rubber.png
+Rubber
+30 / min
+Assembler
+12 sec
+20 ×
+Cable.png
+Cable
+100 / min
+Tier 5 - Oil Processing
+Insulated Crystal Oscillator
+Alternate
+10 ×
+Quartz Crystal.png
+Quartz Crystal
+18.75 / min
+7 ×
+Rubber.png
+Rubber
+13.125 / min
+1 ×
+AI Limiter.png
+AI Limiter
+1.875 / min
+Manufacturer
+32 sec
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1.875 / min
+MAM Quartz Research - Crystal Oscillator OR
+MAM Caterium Research - Caterium Electronics OR
+Tier 5 - Oil Processing
+Iron Alloy Ingot
+Alternate
+8 ×
+Iron Ore.png
+Iron Ore
+40 / min
+2 ×
+Copper Ore.png
+Copper Ore
+10 / min
+Foundry
+12 sec
+15 ×
+Iron Ingot.png
+Iron Ingot
+75 / min
+Tier 3 - Basic Steel Production
+Iron Pipe
+Alternate
+20 ×
+Iron Ingot.png
+Iron Ingot
+100 / min
+Constructor
+12 sec
+5 ×
+Steel Pipe.png
+Steel Pipe
+25 / min
+Tier 3 - Basic Steel Production
+Iron Wire
+Alternate
+5 ×
+Iron Ingot.png
+Iron Ingot
+12.5 / min
+Constructor
+24 sec
+9 ×
+Wire.png
+Wire
+22.5 / min
+Leached Caterium Ingot
+Alternate
+9 ×
+Caterium Ore.png
+Caterium Ore
+54 / min
+5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+30 / min
+Refinery
+10 sec
+6 ×
+Caterium Ingot.png
+Caterium Ingot
+36 / min
+Tier 7 - Control System Development
+Leached Copper Ingot
+Alternate
+9 ×
+Copper Ore.png
+Copper Ore
+45 / min
+5 ×
+Sulfuric Acid.png
+Sulfuric Acid
+25 / min
+Refinery
+12 sec
+22 ×
+Copper Ingot.png
+Copper Ingot
+110 / min
+Tier 7 - Control System Development
+Leached Iron ingot
+Alternate
+5 ×
+Iron Ore.png
+Iron Ore
+50 / min
+1 ×
+Sulfuric Acid.png
+Sulfuric Acid
+10 / min
+Refinery
+6 sec
+10 ×
+Iron Ingot.png
+Iron Ingot
+100 / min
+Tier 7 - Control System Development
+Molded Beam
+Alternate
+24 ×
+Steel Ingot.png
+Steel Ingot
+120 / min
+16 ×
+Concrete.png
+Concrete
+80 / min
+Foundry
+12 sec
+9 ×
+Steel Beam.png
+Steel Beam
+45 / min
+Tier 3 - Basic Steel Production
+Molded Steel Pipe
+Alternate
+5 ×
+Steel Ingot.png
+Steel Ingot
+50 / min
+3 ×
+Concrete.png
+Concrete
+30 / min
+Foundry
+6 sec
+5 ×
+Steel Pipe.png
+Steel Pipe
+50 / min
+Tier 3 - Basic Steel Production
+Nitro Rocket Fuel
+Alternate
+4 ×
+Fuel.png
+Fuel
+100 / min
+3 ×
+Nitrogen Gas.png
+Nitrogen Gas
+75 / min
+4 ×
+Sulfur.png
+Sulfur
+100 / min
+2 ×
+Coal.png
+Coal
+50 / min
+Blender
+2.4 sec
+6 ×
+Rocket Fuel.png
+Rocket Fuel
+150 / min
+1 ×
+Compacted Coal.png
+Compacted Coal
+25 / min
+MAM Sulfur Research - Rocket Fuel
+OC Supercomputer
+Alternate
+2 ×
+Radio Control Unit.png
+Radio Control Unit
+6 / min
+2 ×
+Cooling System.png
+Cooling System
+6 / min
+Assembler
+20 sec
+1 ×
+Supercomputer.png
+Supercomputer
+3 / min
+Tier 7 - Control System Development OR
+Tier 8 - Advanced Aluminum Production
+Oil-Based Diamonds
+Alternate
+10 ×
+Crude Oil.png
+Crude Oil
+200 / min
+Particle Accelerator
+3 sec
+250 - 750 MW
+2 ×
+Diamonds.png
+Diamonds
+40 / min
+Tier 9 - Matter Conversion
+Petroleum Diamonds
+Alternate
+24 ×
+Petroleum Coke.png
+Petroleum Coke
+720 / min
+Particle Accelerator
+2 sec
+250 - 750 MW
+1 ×
+Diamonds.png
+Diamonds
+30 / min
+Tier 9 - Matter Conversion
+Pink Diamonds
+Alternate
+8 ×
+Coal.png
+Coal
+120 / min
+3 ×
+Quartz Crystal.png
+Quartz Crystal
+45 / min
+Converter
+4 sec
+100 - 400 MW
+1 ×
+Diamonds.png
+Diamonds
+15 / min
+Tier 9 - Matter Conversion
+Plastic AI Limiter
+Alternate
+30 ×
+Quickwire.png
+Quickwire
+120 / min
+7 ×
+Plastic.png
+Plastic
+28 / min
+Assembler
+15 sec
+2 ×
+AI Limiter.png
+AI Limiter
+8 / min
+MAM Caterium Research - AI Limiter OR
+Tier 5 - Oil Processing
+Plastic Smart Plating
+Alternate
+1 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+2.5 / min
+1 ×
+Rotor.png
+Rotor
+2.5 / min
+3 ×
+Plastic.png
+Plastic
+7.5 / min
+Manufacturer
+24 sec
+2 ×
+Smart Plating.png
+Smart Plating
+5 / min
+Tier 5 - Oil Processing
+Plutonium Fuel Unit
+Alternate
+20 ×
+Encased Plutonium Cell.png
+Encased Plutonium Cell
+10 / min
+1 ×
+Pressure Conversion Cube.png
+Pressure Conversion Cube
+0.5 / min
+Assembler
+120 sec
+1 ×
+Plutonium Fuel Rod.png
+Plutonium Fuel Rod
+0.5 / min
+Tier 8 - Particle Enrichment
+Polyester Fabric
+Alternate
+1 ×
+Polymer Resin.png
+Polymer Resin
+30 / min
+1 ×
+Water.png
+Water
+30 / min
+Refinery
+2 sec
+1 ×
+Fabric.png
+Fabric
+30 / min
+MAM Mycelia Research - Synthetic Polyester Fabric
+Polymer Resin
+Alternate
+6 ×
+Crude Oil.png
+Crude Oil
+60 / min
+Refinery
+6 sec
+13 ×
+Polymer Resin.png
+Polymer Resin
+130 / min
+2 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+20 / min
+Tier 5 - Oil Processing
+Pure Aluminum Ingot
+Alternate
+2 ×
+Aluminum Scrap.png
+Aluminum Scrap
+60 / min
+Smelter
+2 sec
+1 ×
+Aluminum Ingot.png
+Aluminum Ingot
+30 / min
+Tier 7 - Bauxite Refinement
+Pure Caterium Ingot
+Alternate
+2 ×
+Caterium Ore.png
+Caterium Ore
+24 / min
+2 ×
+Water.png
+Water
+24 / min
+Refinery
+5 sec
+1 ×
+Caterium Ingot.png
+Caterium Ingot
+12 / min
+MAM Caterium Research - Caterium OR
+Tier 5 - Oil Processing
+Pure Copper Ingot
+Alternate
+6 ×
+Copper Ore.png
+Copper Ore
+15 / min
+4 ×
+Water.png
+Water
+10 / min
+Refinery
+24 sec
+15 ×
+Copper Ingot.png
+Copper Ingot
+37.5 / min
+Tier 5 - Oil Processing
+Pure Iron Ingot
+Alternate
+7 ×
+Iron Ore.png
+Iron Ore
+35 / min
+4 ×
+Water.png
+Water
+20 / min
+Refinery
+12 sec
+13 ×
+Iron Ingot.png
+Iron Ingot
+65 / min
+Tier 5 - Oil Processing
+Pure Quartz Crystal
+Alternate
+9 ×
+Raw Quartz.png
+Raw Quartz
+67.5 / min
+5 ×
+Water.png
+Water
+37.5 / min
+Refinery
+8 sec
+7 ×
+Quartz Crystal.png
+Quartz Crystal
+52.5 / min
+MAM Quartz Research - Quartz Crystals OR
+Tier 5 - Oil Processing
+Quartz Purification
+Alternate
+24 ×
+Raw Quartz.png
+Raw Quartz
+120 / min
+2 ×
+Nitric Acid.png
+Nitric Acid
+10 / min
+Refinery
+12 sec
+15 ×
+Quartz Crystal.png
+Quartz Crystal
+75 / min
+12 ×
+Dissolved Silica.png
+Dissolved Silica
+60 / min
+Tier 7 - Control System Development
+Quickwire Cable
+Alternate
+3 ×
+Quickwire.png
+Quickwire
+7.5 / min
+2 ×
+Rubber.png
+Rubber
+5 / min
+Assembler
+24 sec
+11 ×
+Cable.png
+Cable
+27.5 / min
+Tier 5 - Oil Processing OR
+MAM Caterium Research - Caterium Ingots
+Quickwire Stator
+Alternate
+4 ×
+Steel Pipe.png
+Steel Pipe
+16 / min
+15 ×
+Quickwire.png
+Quickwire
+60 / min
+Assembler
+15 sec
+2 ×
+Stator.png
+Stator
+8 / min
+Tier 4 - Advanced Steel Production AND
+MAM Caterium Research - Caterium Ingots
+Radio Connection Unit
+Alternate
+4 ×
+Heat Sink.png
+Heat Sink
+15 / min
+2 ×
+High-Speed Connector.png
+High-Speed Connector
+7.5 / min
+12 ×
+Quartz Crystal.png
+Quartz Crystal
+45 / min
+Manufacturer
+16 sec
+1 ×
+Radio Control Unit.png
+Radio Control Unit
+3.75 / min
+Tier 8 - Advanced Aluminum Production OR
+MAM Caterium Research - AI Limiter
+Radio Control System
+Alternate
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1.5 / min
+10 ×
+Circuit Board.png
+Circuit Board
+15 / min
+60 ×
+Aluminum Casing.png
+Aluminum Casing
+90 / min
+30 ×
+Rubber.png
+Rubber
+45 / min
+Manufacturer
+40 sec
+3 ×
+Radio Control Unit.png
+Radio Control Unit
+4.5 / min
+Tier 7 - Control System Development
+Recycled Plastic
+Alternate
+6 ×
+Rubber.png
+Rubber
+30 / min
+6 ×
+Fuel.png
+Fuel
+30 / min
+Refinery
+12 sec
+12 ×
+Plastic.png
+Plastic
+60 / min
+Tier 5 - Oil Processing
+Recycled Rubber
+Alternate
+6 ×
+Plastic.png
+Plastic
+30 / min
+6 ×
+Fuel.png
+Fuel
+30 / min
+Refinery
+12 sec
+12 ×
+Rubber.png
+Rubber
+60 / min
+Tier 5 - Oil Processing
+Rigor Motor
+Alternate
+3 ×
+Rotor.png
+Rotor
+3.75 / min
+3 ×
+Stator.png
+Stator
+3.75 / min
+1 ×
+Crystal Oscillator.png
+Crystal Oscillator
+1.25 / min
+Manufacturer
+48 sec
+6 ×
+Motor.png
+Motor
+7.5 / min
+Tier 4 - Advanced Steel Production AND
+MAM Quartz Research - Quartz Crystals
+Rubber Concrete
+Alternate
+10 ×
+Limestone.png
+Limestone
+100 / min
+2 ×
+Rubber.png
+Rubber
+20 / min
+Assembler
+6 sec
+9 ×
+Concrete.png
+Concrete
+90 / min
+Tier 5 - Oil Processing
+Silicon Circuit Board
+Alternate
+11 ×
+Copper Sheet.png
+Copper Sheet
+27.5 / min
+11 ×
+Silica.png
+Silica
+27.5 / min
+Assembler
+24 sec
+5 ×
+Circuit Board.png
+Circuit Board
+12.5 / min
+Tier 5 - Oil Processing OR
+MAM Quartz Research - Quartz
+Silicon High-Speed Connector
+Alternate
+60 ×
+Quickwire.png
+Quickwire
+90 / min
+25 ×
+Silica.png
+Silica
+37.5 / min
+2 ×
+Circuit Board.png
+Circuit Board
+3 / min
+Manufacturer
+40 sec
+2 ×
+High-Speed Connector.png
+High-Speed Connector
+3 / min
+MAM Caterium Research - High-Speed Connector OR
+Tier 5 - Oil Processing OR
+MAM Quartz Research - Quartz
+Sloppy Alumina
+Alternate
+10 ×
+Bauxite.png
+Bauxite
+200 / min
+10 ×
+Water.png
+Water
+200 / min
+Refinery
+3 sec
+12 ×
+Alumina Solution.png
+Alumina Solution
+240 / min
+Tier 7 - Bauxite Refinement
+Solid Steel Ingot
+Alternate
+2 ×
+Iron Ingot.png
+Iron Ingot
+40 / min
+2 ×
+Coal.png
+Coal
+40 / min
+Foundry
+3 sec
+3 ×
+Steel Ingot.png
+Steel Ingot
+60 / min
+Tier 3 - Basic Steel Production
+Steamed Copper Sheet
+Alternate
+3 ×
+Copper Ingot.png
+Copper Ingot
+22.5 / min
+3 ×
+Water.png
+Water
+22.5 / min
+Refinery
+8 sec
+3 ×
+Copper Sheet.png
+Copper Sheet
+22.5 / min
+Tier 3 - Coal Power
+Steel Canister
+Alternate
+4 ×
+Steel Ingot.png
+Steel Ingot
+40 / min
+Constructor
+6 sec
+4 ×
+Empty Canister.png
+Empty Canister
+40 / min
+Tier 5 - Fluid Packaging
+Steel Cast Plate
+Alternate
+1 ×
+Iron Ingot.png
+Iron Ingot
+15 / min
+1 ×
+Steel Ingot.png
+Steel Ingot
+15 / min
+Foundry
+4 sec
+3 ×
+Iron Plate.png
+Iron Plate
+45 / min
+Tier 3 - Basic Steel Production
+Steel Rod
+Alternate
+1 ×
+Steel Ingot.png
+Steel Ingot
+12 / min
+Constructor
+5 sec
+4 ×
+Iron Rod.png
+Iron Rod
+48 / min
+Tier 3 - Basic Steel Production
+Steel Rotor
+Alternate
+2 ×
+Steel Pipe.png
+Steel Pipe
+10 / min
+6 ×
+Wire.png
+Wire
+30 / min
+Assembler
+12 sec
+1 ×
+Rotor.png
+Rotor
+5 / min
+Tier 3 - Basic Steel Production
+Steel Screw
+Alternate
+1 ×
+Steel Beam.png
+Steel Beam
+5 / min
+Constructor
+12 sec
+52 ×
+Screw.png
+Screw
+260 / min
+Tier 3 - Basic Steel Production
+Steeled Frame
+Alternate
+2 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+2 / min
+10 ×
+Steel Pipe.png
+Steel Pipe
+10 / min
+Assembler
+60 sec
+3 ×
+Modular Frame.png
+Modular Frame
+3 / min
+Tier 3 - Basic Steel Production
+Stitched Iron Plate
+Alternate
+10 ×
+Iron Plate.png
+Iron Plate
+18.75 / min
+20 ×
+Wire.png
+Wire
+37.5 / min
+Assembler
+32 sec
+3 ×
+Reinforced Iron Plate.png
+Reinforced Iron Plate
+5.625 / min
+Tier 2 - Part Assembly
+Super-State Computer
+Alternate
+3 ×
+Computer.png
+Computer
+7.2 / min
+1 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+2.4 / min
+10 ×
+Battery.png
+Battery
+24 / min
+25 ×
+Wire.png
+Wire
+60 / min
+Manufacturer
+25 sec
+1 ×
+Supercomputer.png
+Supercomputer
+2.4 / min
+Tier 8 - Nuclear Power OR
+Tier 7 - Control System Development
+Tempered Caterium Ingot
+Alternate
+6 ×
+Caterium Ore.png
+Caterium Ore
+45 / min
+2 ×
+Petroleum Coke.png
+Petroleum Coke
+15 / min
+Foundry
+8 sec
+3 ×
+Caterium Ingot.png
+Caterium Ingot
+22.5 / min
+Tier 5 - Oil Processing
+Tempered Copper Ingot
+Alternate
+5 ×
+Copper Ore.png
+Copper Ore
+25 / min
+8 ×
+Petroleum Coke.png
+Petroleum Coke
+40 / min
+Foundry
+12 sec
+12 ×
+Copper Ingot.png
+Copper Ingot
+60 / min
+Tier 5 - Oil Processing
+Turbo Blend Fuel
+Alternate
+2 ×
+Fuel.png
+Fuel
+15 / min
+4 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+30 / min
+3 ×
+Sulfur.png
+Sulfur
+22.5 / min
+3 ×
+Petroleum Coke.png
+Petroleum Coke
+22.5 / min
+Blender
+8 sec
+6 ×
+Turbofuel.png
+Turbofuel
+45 / min
+Tier 7 - Control System Development
+Turbo Diamonds
+Alternate
+30 ×
+Coal.png
+Coal
+600 / min
+2 ×
+Packaged Turbofuel.png
+Packaged Turbofuel
+40 / min
+Particle Accelerator
+3 sec
+250 - 750 MW
+3 ×
+Diamonds.png
+Diamonds
+60 / min
+Tier 9 - Matter Conversion OR
+MAM Sulfur Research - Turbofuel
+Turbo Electric Motor
+Alternate
+7 ×
+Motor.png
+Motor
+6.5625 / min
+9 ×
+Radio Control Unit.png
+Radio Control Unit
+8.4375 / min
+5 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+4.6875 / min
+7 ×
+Rotor.png
+Rotor
+6.5625 / min
+Manufacturer
+64 sec
+3 ×
+Turbo Motor.png
+Turbo Motor
+2.8125 / min
+Tier 8 - Leading-Edge Production OR
+Tier 8 - Nuclear Power
+Turbo Heavy Fuel
+Alternate
+5 ×
+Heavy Oil Residue.png
+Heavy Oil Residue
+37.5 / min
+4 ×
+Compacted Coal.png
+Compacted Coal
+30 / min
+Refinery
+8 sec
+4 ×
+Turbofuel.png
+Turbofuel
+30 / min
+Tier 5 - Oil Processing OR
+MAM Sulfur Research - Compacted Coal
+Turbo Pressure Motor
+Alternate
+4 ×
+Motor.png
+Motor
+7.5 / min
+1 ×
+Pressure Conversion Cube.png
+Pressure Conversion Cube
+1.875 / min
+24 ×
+Packaged Nitrogen Gas.png
+Packaged Nitrogen Gas
+45 / min
+8 ×
+Stator.png
+Stator
+15 / min
+Manufacturer
+32 sec
+2 ×
+Turbo Motor.png
+Turbo Motor
+3.75 / min
+Tier 8 - Particle Enrichment
+Turbofuel
+Alternate
+6 ×
+Fuel.png
+Fuel
+22.5 / min
+4 ×
+Compacted Coal.png
+Compacted Coal
+15 / min
+Refinery
+16 sec
+5 ×
+Turbofuel.png
+Turbofuel
+18.75 / min
+MAM Sulfur Research - Turbofuel
+Uranium Fuel Unit
+Alternate
+100 ×
+Encased Uranium Cell.png
+Encased Uranium Cell
+20 / min
+10 ×
+Electromagnetic Control Rod.png
+Electromagnetic Control Rod
+2 / min
+3 ×
+Crystal Oscillator.png
+Crystal Oscillator
+0.6 / min
+10 ×
+Rotor.png
+Rotor
+2 / min
+Manufacturer
+300 sec
+3 ×
+Uranium Fuel Rod.png
+Uranium Fuel Rod
+0.6 / min
+Tier 8 - Nuclear Power OR
+MAM Quartz Research - Quartz Crystals
+Wet Concrete
+Alternate
+6 ×
+Limestone.png
+Limestone
+120 / min
+5 ×
+Water.png
+Water
+100 / min
+Refinery
+3 sec
+4 ×
+Concrete.png
+Concrete
+80 / min
+Tier 3 - Coal Power
